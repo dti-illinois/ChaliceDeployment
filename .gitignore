@@ -1,2 +1,5 @@
 .chalice/deployments/
 .chalice/venv/
+
+*.pyc
+*.json
