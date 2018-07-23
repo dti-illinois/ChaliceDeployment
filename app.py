@@ -9,5 +9,5 @@ def index():
     return {'hello': 'world'}
 
 @app.route('/ews')
-def a():
+def get_all_ews_status():
     return ews.EWSStatus().get_all_labs()
