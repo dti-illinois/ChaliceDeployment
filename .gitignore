@@ -2,4 +2,3 @@
 .chalice/venv/
 
 *.pyc
-*.json
