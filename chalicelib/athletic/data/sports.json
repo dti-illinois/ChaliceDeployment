@@ -1,0 +1,3648 @@
+{
+    "last_update": "2018-07-26 18:39:55",
+    "data": {
+        "baseball": [
+            {
+                "opponent": "South Dakota State",
+                "date": "Sun 2.18.18",
+                "time": "11 AM CT",
+                "location": "St. Louis, Mo.",
+                "result": "W 5-2"
+            },
+            {
+                "opponent": "Austin Peay",
+                "date": "Sun 2.18.18",
+                "time": "3 PM CT",
+                "location": "St. Louis, Mo.",
+                "result": "L 0-2"
+            },
+            {
+                "opponent": "No. 19 Coastal Carolina",
+                "date": "Fri 2.23.18",
+                "time": "3 PM CT",
+                "location": "Conway, S.C. (Springs Brooks Stadium)",
+                "result": "L 4-6"
+            },
+            {
+                "opponent": "West Virginia",
+                "date": "Sat 2.24.18",
+                "time": "10 AM CT",
+                "location": "Conway, S.C. (Springs Brooks Stadium)",
+                "result": "L 8-10"
+            },
+            {
+                "opponent": "No. 19 Coastal Carolina",
+                "date": "Sat 2.24.18",
+                "time": "1:30 PM CT",
+                "location": "Conway, S.C. (Springs Brooks Stadium)",
+                "result": "W 7-6"
+            },
+            {
+                "opponent": "Virginia Commonwealth",
+                "date": "Sun 2.25.18",
+                "time": "10 AM CT",
+                "location": "Conway, S.C. (Springs Brooks Stadium)",
+                "result": "W 7-4"
+            },
+            {
+                "opponent": "No. 11 UCLA",
+                "date": "Fri 3.2.18",
+                "time": "11 AM CT",
+                "location": "Minneapolis, Minn. (US Bank Stadium)",
+                "result": "W 5-3"
+            },
+            {
+                "opponent": "Arizona",
+                "date": "Sat 3.3.18",
+                "time": "3 PM CT",
+                "location": "Minneapolis, Minn. (US Bank Stadium)",
+                "result": "W 4-3"
+            },
+            {
+                "opponent": "Washington",
+                "date": "Sun 3.4.18",
+                "time": "2 PM CT",
+                "location": "Minneapolis, Minn. (US Bank Stadium)",
+                "result": "W 7-1"
+            },
+            {
+                "opponent": "Michigan State",
+                "date": "Fri 3.9.18",
+                "time": "1 PM CT",
+                "location": "Greenville, S.C. (Fluor Field)",
+                "result": "W 15-4"
+            },
+            {
+                "opponent": "Furman",
+                "date": "Sat 3.10.18",
+                "time": "12 PM CT",
+                "location": "Greenville, S.C. (Fluor Field)",
+                "result": "W 14-5"
+            },
+            {
+                "opponent": "Michigan State",
+                "date": "Sat 3.10.18",
+                "time": "4 PM CT",
+                "location": "Greenville, S.C. (Fluor Field)",
+                "result": "L 2-4"
+            },
+            {
+                "opponent": "Milwaukee",
+                "date": "Wed 3.14.18",
+                "time": "3 PM CT",
+                "location": "Champaign, Ill.",
+                "result": "W 9-6"
+            },
+            {
+                "opponent": "Southern Illinois",
+                "date": "Sat 3.17.18",
+                "time": "12 PM CT",
+                "location": "Carbondale, Ill.",
+                "result": "W 16-6"
+            },
+            {
+                "opponent": "Southern Illinois",
+                "date": "Sat 3.17.18",
+                "time": "3:30 PM CT",
+                "location": "Carbondale, Ill.",
+                "result": "L 4-5"
+            },
+            {
+                "opponent": "Southern Illinois",
+                "date": "Sun 3.18.18",
+                "time": "1 PM CT",
+                "location": "Carbondale, Ill.",
+                "result": "W 6-2"
+            },
+            {
+                "opponent": "Cal State Northridge",
+                "date": "Wed 3.21.18",
+                "time": "1 PM CT",
+                "location": "Champaign, Ill.",
+                "result": "W 12-7"
+            },
+            {
+                "opponent": "Northwestern",
+                "date": "Fri 3.23.18",
+                "time": "3 PM CT",
+                "location": "Evanston, Ill.",
+                "result": "W 5-4"
+            },
+            {
+                "opponent": "Northwestern",
+                "date": "Sat 3.24.18",
+                "time": "2:30 PM CT",
+                "location": "Evanston, Ill.",
+                "result": "W 5-4 "
+            },
+            {
+                "opponent": "Northwestern",
+                "date": "Sun 3.25.18",
+                "time": "1 PM CT",
+                "location": "Evanston, Ill.",
+                "result": "W 4-2 "
+            },
+            {
+                "opponent": "Concordia Chicago",
+                "date": "Wed 3.28.18",
+                "time": "4 PM CT",
+                "location": "Champaign, Ill.",
+                "result": "W 9-6"
+            },
+            {
+                "opponent": "Iowa",
+                "date": "Fri 3.30.18",
+                "time": "6 PM CT",
+                "location": "Champaign, Ill.",
+                "result": "L 5-8"
+            },
+            {
+                "opponent": "Iowa",
+                "date": "Sat 3.31.18",
+                "time": "3 PM CT",
+                "location": "Champaign, Ill.",
+                "result": "W 13-12"
+            },
+            {
+                "opponent": "Iowa",
+                "date": "Sun 4.1.18",
+                "time": "12 PM CT",
+                "location": "Champaign, Ill.",
+                "result": "L 2-4"
+            },
+            {
+                "opponent": "Maryland",
+                "date": "Fri 4.6.18",
+                "time": "2 PM CT",
+                "location": "College Park, Md.",
+                "result": "W 10-6"
+            },
+            {
+                "opponent": "Maryland",
+                "date": "Fri 4.6.18",
+                "time": "5:30 PM CT",
+                "location": "College Park, Md.",
+                "result": "L 1-7"
+            },
+            {
+                "opponent": "Maryland",
+                "date": "Sun 4.8.18",
+                "time": "11 AM CT",
+                "location": "College Park, Md.",
+                "result": "W 4-2"
+            },
+            {
+                "opponent": "Illinois State",
+                "date": "Tue 4.10.18",
+                "time": "4 PM CT",
+                "location": "Champaign, Ill.",
+                "result": "W 4-2"
+            },
+            {
+                "opponent": "Rutgers",
+                "date": "Fri 4.13.18",
+                "time": "6 PM CT",
+                "location": "Champaign, Ill.",
+                "result": "W 13-12"
+            },
+            {
+                "opponent": "Rutgers",
+                "date": "Sat 4.14.18",
+                "time": "1 PM CT",
+                "location": "Champaign, Ill.",
+                "result": "W 2-1"
+            },
+            {
+                "opponent": "Rutgers",
+                "date": "Sun 4.15.18",
+                "time": "1 PM CT",
+                "location": "Champaign, Ill.",
+                "result": "W 10-4"
+            },
+            {
+                "opponent": "Valparaiso",
+                "date": "Tue 4.17.18",
+                "time": "6 PM CT",
+                "location": "Champaign, Ill.",
+                "result": "L 7-11"
+            },
+            {
+                "opponent": "Grand Canyon",
+                "date": "Fri 4.20.18",
+                "time": "6 PM CT",
+                "location": "Champaign, Ill.",
+                "result": "L 1-5"
+            },
+            {
+                "opponent": "Grand Canyon",
+                "date": "Sat 4.21.18",
+                "time": "3 PM CT",
+                "location": "Champaign, Ill.",
+                "result": "W 3-2"
+            },
+            {
+                "opponent": "Grand Canyon",
+                "date": "Sun 4.22.18",
+                "time": "11 AM CT",
+                "location": "Champaign, Ill.",
+                "result": "L 3-5"
+            },
+            {
+                "opponent": "Bradley",
+                "date": "Tue 4.24.18",
+                "time": "6 PM CT",
+                "location": "Champaign, Ill.",
+                "result": "L 3-4 "
+            },
+            {
+                "opponent": "No. 15 Indiana",
+                "date": "Fri 4.27.18",
+                "time": "5:05 PM CT",
+                "location": "Bloomington, Ind.",
+                "result": "W 3-2"
+            },
+            {
+                "opponent": "No. 15 Indiana",
+                "date": "Sat 4.28.18",
+                "time": "1:05 PM CT",
+                "location": "Bloomington, Ind.",
+                "result": "L 1-2 "
+            },
+            {
+                "opponent": "No. 15 Indiana",
+                "date": "Sun 4.29.18",
+                "time": "1 PM CT",
+                "location": "Bloomington, Ind.",
+                "result": "L 2-9"
+            },
+            {
+                "opponent": "Southern Illinois",
+                "date": "Tue 5.1.18",
+                "time": "6 PM CT",
+                "location": "Champaign, Ill.",
+                "result": "W 9-1"
+            },
+            {
+                "opponent": "Ohio State",
+                "date": "Fri 5.4.18",
+                "time": "6 PM CT",
+                "location": "Champaign, Ill.",
+                "result": "L 5-6"
+            },
+            {
+                "opponent": "Ohio State",
+                "date": "Sat 5.5.18",
+                "time": "3 PM CT",
+                "location": "Champaign, Ill.",
+                "result": "W 11-3"
+            },
+            {
+                "opponent": "Ohio State",
+                "date": "Sun 5.6.18",
+                "time": "11 AM CT",
+                "location": "Champaign, Ill.",
+                "result": "L 5-10"
+            },
+            {
+                "opponent": "Michigan",
+                "date": "Fri 5.11.18",
+                "time": "2 PM CT",
+                "location": "Ann Arbor, Mich.",
+                "result": "W 10-3"
+            },
+            {
+                "opponent": "Michigan",
+                "date": "Sat 5.12.18",
+                "time": "1 PM CT",
+                "location": "Ann Arbor, Mich.",
+                "result": "W 10-4"
+            },
+            {
+                "opponent": "Michigan",
+                "date": "Sun 5.13.18",
+                "time": "11 AM CT",
+                "location": "Ann Arbor, Mich.",
+                "result": "L 4-5 "
+            },
+            {
+                "opponent": "Nebraska",
+                "date": "Thu 5.17.18",
+                "time": "6 PM CT",
+                "location": "Champaign, Ill.",
+                "result": "W 5-2"
+            },
+            {
+                "opponent": "Nebraska",
+                "date": "Fri 5.18.18",
+                "time": "4 PM CT",
+                "location": "Champaign, Ill.",
+                "result": "W 13-6"
+            },
+            {
+                "opponent": "Nebraska",
+                "date": "Sat 5.19.18",
+                "time": "3 PM CT",
+                "location": "Champaign, Ill.",
+                "result": "L 8-11"
+            },
+            {
+                "opponent": "Indiana",
+                "date": "Wed 5.23.18",
+                "time": "9:35 PM CT",
+                "location": "Omaha, Neb.",
+                "result": "W 7-1"
+            },
+            {
+                "opponent": "No. 11 Minnesota",
+                "date": "Thu 5.24.18",
+                "time": "10:00 PM CT",
+                "location": "Omaha, Neb.",
+                "result": "L 0-3"
+            },
+            {
+                "opponent": "Indiana",
+                "date": "Fri 5.25.18",
+                "time": "8 PM CT",
+                "location": "Omaha, Neb.",
+                "result": "W 5-4"
+            },
+            {
+                "opponent": "Purdue",
+                "date": "Sat 5.26.18",
+                "time": "1:33 PM CT",
+                "location": "Omaha, Neb.",
+                "result": "L 5-11"
+            }
+        ],
+        "mbball": [
+            {
+                "opponent": "Eastern Illinois (Exh.)",
+                "date": "Fri 11.3.17",
+                "time": "7 pm CT",
+                "location": "Charleston, IL",
+                "result": "L 67-80"
+            },
+            {
+                "opponent": "Southern",
+                "date": "Fri 11.10.17",
+                "time": "7 pm CT",
+                "location": "Champaign, Ill.",
+                "result": "W 102-55"
+            },
+            {
+                "opponent": "Tennessee-Martin",
+                "date": "Sun 11.12.17",
+                "time": "5 pm CT",
+                "location": "Champaign, Ill.",
+                "result": "W 77-74"
+            },
+            {
+                "opponent": "DePaul",
+                "date": "Fri 11.17.17",
+                "time": "7:30 pm CT",
+                "location": "Champaign, Ill.",
+                "result": "W 82-73"
+            },
+            {
+                "opponent": "Marshall",
+                "date": "Sun 11.19.17",
+                "time": "4 pm CT",
+                "location": "Champaign, Ill.",
+                "result": "W 91-74"
+            },
+            {
+                "opponent": "Augustana (Ill.)",
+                "date": "Wed 11.22.17",
+                "time": "6 pm CT",
+                "location": "Champaign, Ill.",
+                "result": "W 96-62"
+            },
+            {
+                "opponent": "North Carolina Central",
+                "date": "Fri 11.24.17",
+                "time": "6:30 pm CT",
+                "location": "Champaign, Ill.",
+                "result": "W 86-73"
+            },
+            {
+                "opponent": "Wake Forest",
+                "date": "Tue 11.28.17",
+                "time": "8 pm CT",
+                "location": "Winston-Salem, N.C.",
+                "result": "L 73-80"
+            },
+            {
+                "opponent": "Northwestern",
+                "date": "Fri 12.1.17",
+                "time": "8 pm CT",
+                "location": "Rosemont, Ill.",
+                "result": "L 68-72 "
+            },
+            {
+                "opponent": "Maryland",
+                "date": "Sun 12.3.17",
+                "time": "7 pm CT",
+                "location": "Champaign, Ill.",
+                "result": "L 91-92 "
+            },
+            {
+                "opponent": "Austin Peay",
+                "date": "Wed 12.6.17",
+                "time": "7 pm CT",
+                "location": "Champaign, Ill.",
+                "result": "W 64-57"
+            },
+            {
+                "opponent": "UNLV",
+                "date": "Sat 12.9.17",
+                "time": "11 pm CT",
+                "location": "Las Vegas, Nev.",
+                "result": "L 82-89"
+            },
+            {
+                "opponent": "Longwood",
+                "date": "Wed 12.13.17",
+                "time": "7 pm CT",
+                "location": "Champaign, Ill.",
+                "result": "W 92-45"
+            },
+            {
+                "opponent": "New Mexico State",
+                "date": "Sat 12.16.17",
+                "time": "7 pm CT",
+                "location": "Chicago, Ill.",
+                "result": "L 69-74"
+            },
+            {
+                "opponent": "Missouri",
+                "date": "Sat 12.23.17",
+                "time": "7 pm CT",
+                "location": "St. Louis, Mo.",
+                "result": "W 70-64"
+            },
+            {
+                "opponent": "Grand Canyon",
+                "date": "Sat 12.30.17",
+                "time": "3 pm CT",
+                "location": "Champaign, Ill.",
+                "result": "W 62-58"
+            },
+            {
+                "opponent": "Minnesota",
+                "date": "Wed 1.3.18",
+                "time": "8 pm CT",
+                "location": "Minneapolis, Minn.",
+                "result": "L 67-77"
+            },
+            {
+                "opponent": "Michigan",
+                "date": "Sat 1.6.18",
+                "time": "11 am CT",
+                "location": "Ann Arbor, Mich.",
+                "result": "L 69-79"
+            },
+            {
+                "opponent": "Iowa",
+                "date": "Thu 1.11.18",
+                "time": "7 pm CT",
+                "location": "Champaign, Ill.",
+                "result": "L 97-104 "
+            },
+            {
+                "opponent": "Nebraska",
+                "date": "Mon 1.15.18",
+                "time": "8 pm CT",
+                "location": "Lincoln, Neb.",
+                "result": "L 63-64"
+            },
+            {
+                "opponent": "Wisconsin",
+                "date": "Fri 1.19.18",
+                "time": "8 pm CT",
+                "location": "Madison, Wis.",
+                "result": "L 50-75"
+            },
+            {
+                "opponent": "#6/6 Michigan State",
+                "date": "Mon 1.22.18",
+                "time": "8 pm CT",
+                "location": "Champaign, Ill.",
+                "result": "L 74-87"
+            },
+            {
+                "opponent": "Indiana",
+                "date": "Wed 1.24.18",
+                "time": "8 pm CT",
+                "location": "Champaign, Ill.",
+                "result": "W 73-71"
+            },
+            {
+                "opponent": "Rutgers",
+                "date": "Tue 1.30.18",
+                "time": "6 pm CT",
+                "location": "Champaign, Ill.",
+                "result": "W 91-60"
+            },
+            {
+                "opponent": "#17/18 Ohio State",
+                "date": "Sun 2.4.18",
+                "time": "11 am CT",
+                "location": "Columbus, Ohio",
+                "result": "L 67-75"
+            },
+            {
+                "opponent": "Wisconsin",
+                "date": "Thu 2.8.18",
+                "time": "8 pm CT",
+                "location": "Champaign, Ill.",
+                "result": "L 69-78"
+            },
+            {
+                "opponent": "Penn State",
+                "date": "Sun 2.11.18",
+                "time": "6 pm CT",
+                "location": "Champaign, Ill.",
+                "result": "L 52-74"
+            },
+            {
+                "opponent": "Indiana",
+                "date": "Wed 2.14.18",
+                "time": "7:30 pm CT",
+                "location": "Bloomington, Ind.",
+                "result": "L 68-78"
+            },
+            {
+                "opponent": "Nebraska",
+                "date": "Sun 2.18.18",
+                "time": "2:30 pm CT",
+                "location": "Champaign, Ill.",
+                "result": "W 72-66"
+            },
+            {
+                "opponent": "#2/1 Michigan State",
+                "date": "Tue 2.20.18",
+                "time": "6 pm CT",
+                "location": "East Lansing, Mich.",
+                "result": "L 61-81"
+            },
+            {
+                "opponent": "#9/9 Purdue",
+                "date": "Thu 2.22.18",
+                "time": "6 pm CT",
+                "location": "Champaign, Ill.",
+                "result": "L 86-93"
+            },
+            {
+                "opponent": "Rutgers",
+                "date": "Sun 2.25.18",
+                "time": "2 pm CT",
+                "location": "Piscataway, N.J.",
+                "result": "W 75-62"
+            },
+            {
+                "opponent": "Iowa | BTT First Round",
+                "date": "Wed 2.28.18",
+                "time": "4:30 pm CT",
+                "location": "New York, N.Y.",
+                "result": "L 87-96"
+            }
+        ],
+        "mcross": [
+            {
+                "opponent": "EIU Walt Crawford Open",
+                "date": "Fri 9.1.17",
+                "time": "5:30 PM CT",
+                "location": "Charleston, Ill.",
+                "result": " "
+            },
+            {
+                "opponent": "John McNichols Invite",
+                "date": "Sat 9.9.17",
+                "time": "9 AM CT",
+                "location": "Terre Haute, Ind.",
+                "result": " "
+            },
+            {
+                "opponent": "Coast to Coast Battle Beantown",
+                "date": "Fri 9.22.17",
+                "time": "2:30 PM CT",
+                "location": "Boston, Mass.",
+                "result": " "
+            },
+            {
+                "opponent": "Greater Louisville Classic",
+                "date": "Sat 9.30.17",
+                "time": "8:30 AM CT",
+                "location": "Louisville, Ky.",
+                "result": " "
+            },
+            {
+                "opponent": "Ed Nuttycombe Invite",
+                "date": "Fri 10.13.17",
+                "time": "11:40 AM CT",
+                "location": "Madison, Wis.",
+                "result": "28th of 35"
+            },
+            {
+                "opponent": "Illini Open",
+                "date": "Fri 10.20.17",
+                "time": "4:40 PM CT",
+                "location": "Champaign, Ill.",
+                "result": " "
+            },
+            {
+                "opponent": "Big Ten Championships",
+                "date": "Sun 10.29.17",
+                "time": "9:45 AM CT",
+                "location": "Bloomington, Ind.",
+                "result": " "
+            },
+            {
+                "opponent": "NCAA Regionals",
+                "date": "Fri 11.10.17",
+                "time": "11:45 AM CT",
+                "location": "Ames, Iowa",
+                "result": " "
+            },
+            {
+                "opponent": "NCAA Championships",
+                "date": "Sat 11.18.17",
+                "time": "9:00 AM CT",
+                "location": "Louisville, Ky.",
+                "result": " "
+            }
+        ],
+        "football": [
+            {
+                "opponent": "Kent State",
+                "date": "Sat 9.1.18",
+                "time": "11 AM CT",
+                "location": "Champaign, Ill.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Western Illinois",
+                "date": "Sat 9.8.18",
+                "time": "6:30 PM CT",
+                "location": "Champaign, Ill.",
+                "result": "not available"
+            },
+            {
+                "opponent": "South Florida",
+                "date": "Sat 9.15.18",
+                "time": "2:30 PM CT",
+                "location": "Chicago, Ill.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Penn State",
+                "date": "Fri 9.21.18",
+                "time": "8 PM CT",
+                "location": "Champaign, Ill.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Rutgers",
+                "date": "Sat 10.6.18",
+                "time": "TBA",
+                "location": "Piscataway, NJ",
+                "result": "not available"
+            },
+            {
+                "opponent": "Purdue",
+                "date": "Sat 10.13.18",
+                "time": "2:30 / 3 PM CT",
+                "location": "Champaign, Ill.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Wisconsin",
+                "date": "Sat 10.20.18",
+                "time": "11 AM CT",
+                "location": "Madison, WI",
+                "result": "not available"
+            },
+            {
+                "opponent": "Maryland",
+                "date": "Sat 10.27.18",
+                "time": "TBA",
+                "location": "College Park, MD",
+                "result": "not available"
+            },
+            {
+                "opponent": "Minnesota",
+                "date": "Sat 11.3.18",
+                "time": "TBA",
+                "location": "Champaign, Ill.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Nebraska",
+                "date": "Sat 11.10.18",
+                "time": "TBA",
+                "location": "Lincoln, NE",
+                "result": "not available"
+            },
+            {
+                "opponent": "Iowa",
+                "date": "Sat 11.17.18",
+                "time": "TBA",
+                "location": "Champaign, Ill.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Northwestern",
+                "date": "Sat 11.24.18",
+                "time": "TBA",
+                "location": "Evanston, IL",
+                "result": "not available"
+            },
+            {
+                "opponent": "Big Ten Championship Game",
+                "date": "Sat 12.1.18",
+                "time": "TBA",
+                "location": "Indianapolis",
+                "result": "not available"
+            }
+        ],
+        "mgolf": [
+            {
+                "opponent": "OFCC/Fighting Illini Invitational",
+                "date": "Fri 9.15.17",
+                "time": "",
+                "location": "Olympia Fields, Ill.",
+                "result": "not available"
+            },
+            {
+                "opponent": "OFCC/Fighting Illini Invitational",
+                "date": "Sat 9.16.17",
+                "time": "",
+                "location": "Olympia Fields, Ill.",
+                "result": "not available"
+            },
+            {
+                "opponent": "OFCC/Fighting Illini Invitational",
+                "date": "Sun 9.17.17",
+                "time": "",
+                "location": "Olympia Fields, Ill.",
+                "result": " "
+            },
+            {
+                "opponent": "Bearcat Invitational",
+                "date": "Mon 9.25.17",
+                "time": "",
+                "location": "Cincinnati, Ohio",
+                "result": "not available"
+            },
+            {
+                "opponent": "Bearcat Invitational",
+                "date": "Tue 9.26.17",
+                "time": "",
+                "location": "Cincinnati, Ohio",
+                "result": " "
+            },
+            {
+                "opponent": "Crooked Stick Intercollegiate",
+                "date": "Mon 10.16.17",
+                "time": "",
+                "location": "Carmel, Ind.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Crooked Stick Intercollegiate",
+                "date": "Tue 10.17.17",
+                "time": "",
+                "location": "Carmel, Ind.",
+                "result": " "
+            },
+            {
+                "opponent": "Tavistock Collegiate Invitational",
+                "date": "Sun 10.22.17",
+                "time": "",
+                "location": "Windermere, Fla.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Tavistock Collegiate Invitational",
+                "date": "Mon 10.23.17",
+                "time": "",
+                "location": "Windermere, Fla.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Tavistock Collegiate Invitational",
+                "date": "Tue 10.24.17",
+                "time": "",
+                "location": "Windermere, Fla.",
+                "result": "not available"
+            },
+            {
+                "opponent": "East Lake Cup",
+                "date": "Mon 10.30.17",
+                "time": "",
+                "location": "Atlanta, Ga.",
+                "result": "not available"
+            },
+            {
+                "opponent": "East Lake Cup",
+                "date": "Tue 10.31.17",
+                "time": "",
+                "location": "Atlanta, Ga.",
+                "result": "not available"
+            },
+            {
+                "opponent": "East Lake Cup",
+                "date": "Wed 11.1.17",
+                "time": "",
+                "location": "Atlanta, Ga.",
+                "result": " "
+            },
+            {
+                "opponent": "Illini Alumni Match",
+                "date": "Sat 1.27.18",
+                "time": "",
+                "location": "Placida, Fla",
+                "result": "not available"
+            },
+            {
+                "opponent": "Big Ten Match Play",
+                "date": "Fri 2.9.18",
+                "time": "",
+                "location": "Hammock Beach, Fla.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Big Ten Match Play",
+                "date": "Sat 2.10.18",
+                "time": "",
+                "location": "Hammock Beach, Fla.",
+                "result": " "
+            },
+            {
+                "opponent": "Louisiana Classics",
+                "date": "Mon 2.26.18",
+                "time": "",
+                "location": "Lafayette, La.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Louisiana Classics",
+                "date": "Tue 2.27.18",
+                "time": "",
+                "location": "Lafayette, La.",
+                "result": " "
+            },
+            {
+                "opponent": "Southern Highlands Collegiate",
+                "date": "Mon 3.5.18",
+                "time": "",
+                "location": "Las Vegas, Nev.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Southern Highlands Collegiate",
+                "date": "Tue 3.6.18",
+                "time": "",
+                "location": "Las Vegas, Nev.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Southern Highlands Collegiate",
+                "date": "Wed 3.7.18",
+                "time": "",
+                "location": "Las Vegas, Nev.",
+                "result": " "
+            },
+            {
+                "opponent": "Big Horn Invitational",
+                "date": "Fri 3.23.18",
+                "time": "",
+                "location": "Palm Desert, Calif.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Big Horn Invitational",
+                "date": "Sat 3.24.18",
+                "time": "",
+                "location": "Palm Desert, Calif.",
+                "result": " "
+            },
+            {
+                "opponent": "3M Augusta Invitational",
+                "date": "Sat 3.31.18",
+                "time": "",
+                "location": "Augusta, Ga.",
+                "result": "not available"
+            },
+            {
+                "opponent": "3M Augusta Invitational",
+                "date": "Sun 4.1.18",
+                "time": "",
+                "location": "Augusta, Ga.",
+                "result": " "
+            },
+            {
+                "opponent": "Bradley",
+                "date": "Sat 4.14.18",
+                "time": "",
+                "location": "Stone Creek Golf Club",
+                "result": "W 5-2"
+            },
+            {
+                "opponent": "Robert Kepler Intercollegiate",
+                "date": "Sat 4.21.18",
+                "time": "",
+                "location": "Columbus, OH",
+                "result": "not available"
+            },
+            {
+                "opponent": "Robert Kepler Intercollegiate",
+                "date": "Sun 4.22.18",
+                "time": "",
+                "location": "Columbus, Ohio",
+                "result": " "
+            },
+            {
+                "opponent": "Big Ten Championship",
+                "date": "Fri 4.27.18",
+                "time": "",
+                "location": "Baltimore, Md.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Big Ten Championship",
+                "date": "Sat 4.28.18",
+                "time": "",
+                "location": "Baltimore, Md.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Big Ten Championship",
+                "date": "Sun 4.29.18",
+                "time": "",
+                "location": "Baltimore, Md.",
+                "result": " "
+            },
+            {
+                "opponent": "NCAA Regionals",
+                "date": "Mon 5.14.18",
+                "time": "6:30AM",
+                "location": "Columbus, OH",
+                "result": "not available"
+            },
+            {
+                "opponent": "NCAA Regionals",
+                "date": "Tue 5.15.18",
+                "time": "6:30AM",
+                "location": "Columbus, OH",
+                "result": "not available"
+            },
+            {
+                "opponent": "NCAA Regionals",
+                "date": "Wed 5.16.18",
+                "time": "6:30AM",
+                "location": "Columbus, OH",
+                "result": " "
+            },
+            {
+                "opponent": "NCAA Championships",
+                "date": "Fri 5.25.18",
+                "time": "4:43PM",
+                "location": "Stillwater, Okla.",
+                "result": "not available"
+            },
+            {
+                "opponent": "NCAA Championships",
+                "date": "Sat 5.26.18",
+                "time": "7AM",
+                "location": "Stillwater, Okla.",
+                "result": "not available"
+            },
+            {
+                "opponent": "NCAA Championships",
+                "date": "Sun 5.27.18",
+                "time": "7:55AM",
+                "location": "Stillwater, Okla.",
+                "result": "not available"
+            },
+            {
+                "opponent": "NCAA Championships",
+                "date": "Mon 5.28.18",
+                "time": "11:30AM",
+                "location": "Stillwater, Okla.",
+                "result": " "
+            }
+        ],
+        "mgym": [
+            {
+                "opponent": "Orange & Blue",
+                "date": "Sat 12.9.17",
+                "time": "4 PM CT",
+                "location": "Champaign, Ill.",
+                "result": " "
+            },
+            {
+                "opponent": "Windy City Invitational",
+                "date": "Sat 1.13.18",
+                "time": "7:30 PM CT",
+                "location": "Chicago, Ill.",
+                "result": " "
+            },
+            {
+                "opponent": "Arizona State",
+                "date": "Sat 1.20.18",
+                "time": "4 PM CT",
+                "location": "Champaign, Ill.",
+                "result": "W 407.700-387.700"
+            },
+            {
+                "opponent": "Penn State",
+                "date": "Sat 1.27.18",
+                "time": "3 PM CT",
+                "location": "State College, PA",
+                "result": "W 412.500-405.900"
+            },
+            {
+                "opponent": "Iowa",
+                "date": "Sat 2.3.18",
+                "time": "1 PM CT",
+                "location": "Iowa City, IA",
+                "result": "W 404.700-401.850"
+            },
+            {
+                "opponent": "Minnesota",
+                "date": "Sat 2.10.18",
+                "time": "2:30 PM CT",
+                "location": "Minneapolis, MN",
+                "result": "L 406.550-408.000"
+            },
+            {
+                "opponent": "Winter Cup",
+                "date": "Thu 2.15.18",
+                "time": "TBA",
+                "location": "Las Vegas, Nev.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Winter Cup",
+                "date": "Fri 2.16.18",
+                "time": "TBA",
+                "location": "Las Vegas, Nev.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Winter Cup",
+                "date": "Sat 2.17.18",
+                "time": "TBA",
+                "location": "Las Vegas, Nev.",
+                "result": "not available"
+            },
+            {
+                "opponent": "University of Michigan",
+                "date": "Sat 2.24.18",
+                "time": "3 PM CT",
+                "location": "Champaign, Ill.",
+                "result": "W 405.200-394.900"
+            },
+            {
+                "opponent": "Stanford Invite",
+                "date": "Sat 3.3.18",
+                "time": "6 PM CT",
+                "location": "Stanford, CA",
+                "result": " "
+            },
+            {
+                "opponent": "UIC",
+                "date": "Fri 3.9.18",
+                "time": "7 PM CT",
+                "location": "Champaign, Ill.",
+                "result": "W 405.700-361.300"
+            },
+            {
+                "opponent": "Air Force",
+                "date": "Fri 3.9.18",
+                "time": "7 PM CT",
+                "location": "Champaign, Ill.",
+                "result": "W 405.700-389.050"
+            },
+            {
+                "opponent": "Oklahoma",
+                "date": "Sat 3.17.18",
+                "time": "11 AM CT",
+                "location": "Champaign, Ill.",
+                "result": "L 399.700-412.300"
+            },
+            {
+                "opponent": "Big Ten",
+                "date": "Fri 4.6.18",
+                "time": "6 p.m. CT",
+                "location": "Ann Arbor, Mich.",
+                "result": " "
+            },
+            {
+                "opponent": "Big Ten",
+                "date": "Sat 4.7.18",
+                "time": "6 p.m. CT",
+                "location": "Ann Arbor, Mich.",
+                "result": "not available"
+            },
+            {
+                "opponent": "NCAA Qualifiers",
+                "date": "Fri 4.20.18",
+                "time": "7 pm CT",
+                "location": "Chicago, Ill.",
+                "result": " "
+            },
+            {
+                "opponent": "NCAA Team & Individual Finals",
+                "date": "Sat 4.21.18",
+                "time": "6 pm CT",
+                "location": "Chicago, Ill.",
+                "result": " "
+            }
+        ],
+        "mten": [
+            {
+                "opponent": "ITA Hall of Fame",
+                "date": "Fri 9.15.17 - Sun 9.17.17",
+                "time": "All Day",
+                "location": "Newport, RI",
+                "result": "not available"
+            },
+            {
+                "opponent": "Gator Ranked +1",
+                "date": "Fri 9.22.17 - Sun 9.24.17",
+                "time": "All Day",
+                "location": "Gainesville, FL",
+                "result": "not available"
+            },
+            {
+                "opponent": "Alabama Invite",
+                "date": "Fri 9.22.17 - Sun 9.24.17",
+                "time": "All Day",
+                "location": "Tuscaloosa, AL",
+                "result": "not available"
+            },
+            {
+                "opponent": "Milwaukee Tennis Invite",
+                "date": "Fri 9.22.17 - Sun 9.24.17",
+                "time": "All Day",
+                "location": "Milwaukee, WI",
+                "result": "not available"
+            },
+            {
+                "opponent": "ITA All-American Championships",
+                "date": "Sat 9.30.17 - Sun 10.8.17",
+                "time": "All Day",
+                "location": "Tulsa, OK",
+                "result": "not available"
+            },
+            {
+                "opponent": "ITA Midwest Regionals",
+                "date": "Thu 10.19.17 - Sun 10.22.17",
+                "time": "All Day",
+                "location": "Ann Arbor, MI",
+                "result": "not available"
+            },
+            {
+                "opponent": "Dick Vitale Invitational",
+                "date": "Fri 11.3.17 - Sun 11.5.17",
+                "time": "All Day",
+                "location": "Lakewood Ranch, FL",
+                "result": "not available"
+            },
+            {
+                "opponent": "MLK Invitational",
+                "date": "Sat 1.13.18 - Mon 1.15.18",
+                "time": "All Day",
+                "location": "Atlanta, GA",
+                "result": "not available"
+            },
+            {
+                "opponent": "Georgia Tech",
+                "date": "Sat 1.27.18",
+                "time": "10AM",
+                "location": "Norman, Okla.",
+                "result": "W 4-0"
+            },
+            {
+                "opponent": "#18 Oklahoma",
+                "date": "Sun 1.28.18",
+                "time": "1PM",
+                "location": "Norman, Okla.",
+                "result": "W 4-1"
+            },
+            {
+                "opponent": "#19  Duke",
+                "date": "Fri 2.2.18",
+                "time": "5PM",
+                "location": "Durham, NC",
+                "result": "W 6-1"
+            },
+            {
+                "opponent": "#3  North Carolina",
+                "date": "Sat 2.3.18",
+                "time": "5PM",
+                "location": "Chapel Hill, NC",
+                "result": "L 3-4"
+            },
+            {
+                "opponent": "#23 California",
+                "date": "Fri 2.9.18",
+                "time": "6PM",
+                "location": "Urbana, Ill.",
+                "result": "W 4-0"
+            },
+            {
+                "opponent": "#5 Stanford",
+                "date": "Sat 2.10.18",
+                "time": "6PM",
+                "location": "Urbana, Ill.",
+                "result": "L 2-4"
+            },
+            {
+                "opponent": "#7  UCLA",
+                "date": "Fri 2.16.18",
+                "time": "11AM",
+                "location": "Seattle, Wash.",
+                "result": "L 2-4"
+            },
+            {
+                "opponent": "#15  Duke",
+                "date": "Sat 2.17.18",
+                "time": "11AM",
+                "location": "Seattle, Wash.",
+                "result": "W 4-1"
+            },
+            {
+                "opponent": "#11  Florida",
+                "date": "Sun 2.18.18",
+                "time": "11AM",
+                "location": "Seattle, Wash.",
+                "result": "W 4-0"
+            },
+            {
+                "opponent": "Kentucky",
+                "date": "Sun 2.25.18",
+                "time": "12PM",
+                "location": "Lexington, KY",
+                "result": "L 3-4"
+            },
+            {
+                "opponent": "TCU",
+                "date": "Fri 3.2.18",
+                "time": "6PM",
+                "location": "Urbana, Ill.",
+                "result": "W 5-2"
+            },
+            {
+                "opponent": "Virginia",
+                "date": "Sun 3.4.18",
+                "time": "12PM",
+                "location": "Urbana, Ill.",
+                "result": "W 4-3"
+            },
+            {
+                "opponent": "#19 Notre Dame",
+                "date": "Wed 3.7.18",
+                "time": "6PM",
+                "location": "Urbana, Ill.",
+                "result": "W 4-1"
+            },
+            {
+                "opponent": "Northwestern",
+                "date": "Fri 3.9.18",
+                "time": "7PM",
+                "location": "Evanston, IL",
+                "result": "W 4-0"
+            },
+            {
+                "opponent": "#1  Wake Forest",
+                "date": "Tue 3.20.18",
+                "time": "3PM",
+                "location": "Winston-Salem, NC",
+                "result": "L 0-4"
+            },
+            {
+                "opponent": "Indiana",
+                "date": "Fri 3.23.18",
+                "time": "5PM",
+                "location": "Bloomington, IN",
+                "result": "W 5-2"
+            },
+            {
+                "opponent": "Purdue",
+                "date": "Sun 3.25.18",
+                "time": "12PM",
+                "location": "Urbana, Ill.",
+                "result": "W 5-2"
+            },
+            {
+                "opponent": "Iowa",
+                "date": "Sat 3.31.18",
+                "time": "12PM",
+                "location": "Iowa City, IA",
+                "result": "W 5-2"
+            },
+            {
+                "opponent": "Nebraska",
+                "date": "Sun 4.1.18",
+                "time": "12PM",
+                "location": "Lincoln, NE",
+                "result": "W 6-1"
+            },
+            {
+                "opponent": "#11  Michigan",
+                "date": "Sat 4.7.18",
+                "time": "12PM",
+                "location": "Urbana, Ill.",
+                "result": "W 4-2"
+            },
+            {
+                "opponent": "Michigan State",
+                "date": "Sun 4.8.18",
+                "time": "12PM",
+                "location": "Urbana, Ill.",
+                "result": "W 6-1"
+            },
+            {
+                "opponent": "#3  Ohio State",
+                "date": "Sat 4.14.18",
+                "time": "11AM",
+                "location": "Columbus, OH",
+                "result": "L 0-4"
+            },
+            {
+                "opponent": "Penn State",
+                "date": "Sun 4.15.18",
+                "time": "11AM",
+                "location": "University Park, PA",
+                "result": "W 4-0"
+            },
+            {
+                "opponent": "Wisconsin",
+                "date": "Fri 4.20.18",
+                "time": "3PM",
+                "location": "Urbana, Ill.",
+                "result": "W 5-2"
+            },
+            {
+                "opponent": "Minnesota",
+                "date": "Sun 4.22.18",
+                "time": "12PM",
+                "location": "Urbana, Ill.",
+                "result": "W 6-1"
+            },
+            {
+                "opponent": "Penn State",
+                "date": "Fri 4.27.18",
+                "time": "2PM",
+                "location": "Iowa City, IA",
+                "result": "W 4-0"
+            },
+            {
+                "opponent": "#13  Michigan",
+                "date": "Sat 4.28.18",
+                "time": "2PM",
+                "location": "Iowa City, IA",
+                "result": "W 4-1"
+            },
+            {
+                "opponent": "#3 Ohio State",
+                "date": "Sun 4.29.18",
+                "time": "12PM",
+                "location": "Iowa City, IA",
+                "result": "L 0-4"
+            },
+            {
+                "opponent": "Marquette",
+                "date": "Sat 5.12.18",
+                "time": "3PM",
+                "location": "Urbana, Ill.",
+                "result": "W 4-0"
+            },
+            {
+                "opponent": "#22  Vanderbilt",
+                "date": "Sun 5.13.18",
+                "time": "2PM",
+                "location": "Urbana, Ill.",
+                "result": "W 4-0"
+            },
+            {
+                "opponent": "#8 TCU",
+                "date": "Fri 5.18.18",
+                "time": "4 PM CT",
+                "location": "Chapel Hill, N.C.",
+                "result": "W 4-0"
+            },
+            {
+                "opponent": "#1 Wake Forest",
+                "date": "Sun 5.20.18",
+                "time": "1 PM CT",
+                "location": "Winston-Salem, N.C.",
+                "result": "L 0-4"
+            }
+        ],
+        "mtrack": [
+            {
+                "opponent": "Illinois Open",
+                "date": "Sat 1.13.18",
+                "time": "10 AM CT",
+                "location": "Champaign, Ill.",
+                "result": " "
+            },
+            {
+                "opponent": "Mark Colligan Memorial",
+                "date": "Sat 1.20.18",
+                "time": "11:30 AM CT",
+                "location": "Lincoln, Neb.",
+                "result": " "
+            },
+            {
+                "opponent": "Illini Classic",
+                "date": "Sat 1.27.18",
+                "time": "10 AM CT",
+                "location": "Champaign, Ill.",
+                "result": " "
+            },
+            {
+                "opponent": "Rod McCravy Memorial",
+                "date": "Sat 2.3.18",
+                "time": "9 AM CT",
+                "location": "Lexington, Ky.",
+                "result": " "
+            },
+            {
+                "opponent": "Iowa State Classic",
+                "date": "Fri 2.9.18",
+                "time": "11 AM CT",
+                "location": "Ames, Iowa",
+                "result": " "
+            },
+            {
+                "opponent": "Iowa State Classic",
+                "date": "Sat 2.10.18",
+                "time": "11 AM CT",
+                "location": "Ames, Iowa",
+                "result": "not available"
+            },
+            {
+                "opponent": "Orange & Blue Open",
+                "date": "Sat 2.17.18",
+                "time": "10 AM CT",
+                "location": "Champaign, Ill.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Big Ten Championships",
+                "date": "Fri 2.23.18",
+                "time": "ALL DAY",
+                "location": "Geneva, Ohio",
+                "result": " "
+            },
+            {
+                "opponent": "Big Ten Championships",
+                "date": "Sat 2.24.18",
+                "time": "ALL DAY",
+                "location": "Geneva, Ohio",
+                "result": " "
+            },
+            {
+                "opponent": "NCAA Indoor Championships",
+                "date": "Fri 3.9.18",
+                "time": "ALL DAY",
+                "location": "College Station, Tex.",
+                "result": "not available"
+            },
+            {
+                "opponent": "NCAA Indoor Championships",
+                "date": "Sat 3.10.18",
+                "time": "6:10 PM CT",
+                "location": "College Station, Tex.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Bill Cornell Spring Classic",
+                "date": "Sat 3.24.18",
+                "time": "ALL DAY",
+                "location": "Carbondale, Ill.",
+                "result": " "
+            },
+            {
+                "opponent": "Stanford Invite",
+                "date": "Fri 3.30.18",
+                "time": "ALL DAY",
+                "location": "Stanford, Calif.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Ole Miss Classic",
+                "date": "Sat 3.31.18",
+                "time": "ALL DAY",
+                "location": "Oxford, Miss.",
+                "result": " "
+            },
+            {
+                "opponent": "Jim Click Shootout",
+                "date": "Sat 4.7.18",
+                "time": "ALL DAY",
+                "location": "Tucson, AZ",
+                "result": " "
+            },
+            {
+                "opponent": "Illinois Twilight",
+                "date": "Sat 4.14.18",
+                "time": "3 PM CT",
+                "location": "Urbana, Ill.",
+                "result": " "
+            },
+            {
+                "opponent": "Mt. SAC Relays / Bryan Clay",
+                "date": "Thu 4.19.18",
+                "time": "ALL DAY",
+                "location": "Torrance, Calif.",
+                "result": " "
+            },
+            {
+                "opponent": "Mt. SAC Relays / Beach Invite / Bryan Clay Invite",
+                "date": "Fri 4.20.18",
+                "time": "ALL DAY",
+                "location": "Torrance / Azusa / Long Beach, Calif.",
+                "result": " "
+            },
+            {
+                "opponent": "Mt. SAC Relays / Beach Invite",
+                "date": "Sat 4.21.18",
+                "time": "ALL DAY",
+                "location": "Torrance / Azusa / Long Beach, Calif.",
+                "result": " "
+            },
+            {
+                "opponent": "Drake Relays",
+                "date": "Thu 4.26.18",
+                "time": "ALL DAY",
+                "location": "Des Moines, Iowa",
+                "result": "not available"
+            },
+            {
+                "opponent": "Drake Relays",
+                "date": "Fri 4.27.18",
+                "time": "ALL DAY",
+                "location": "Des Moines, Iowa",
+                "result": "not available"
+            },
+            {
+                "opponent": "Drake Relays",
+                "date": "Sat 4.28.18",
+                "time": "ALL DAY",
+                "location": "Des Moines, Iowa",
+                "result": " "
+            },
+            {
+                "opponent": "Big Ten Outdoor Championships",
+                "date": "Fri 5.11.18",
+                "time": "1:30 PM CT",
+                "location": "Bloomington, Ind.",
+                "result": " "
+            },
+            {
+                "opponent": "Big Ten Outdoor Championships",
+                "date": "Sat 5.12.18",
+                "time": "12:20 PM CT",
+                "location": "Bloomington, Ind.",
+                "result": " "
+            },
+            {
+                "opponent": "Big Ten Outdoor Championships",
+                "date": "Sun 5.13.18",
+                "time": "10 AM CT",
+                "location": "Bloomington, Ind.",
+                "result": " "
+            },
+            {
+                "opponent": "NCAA West Prelims",
+                "date": "Thu 5.24.18",
+                "time": "2 PM CT",
+                "location": "Sacramento, Calif.",
+                "result": " "
+            },
+            {
+                "opponent": "NCAA West Prelims",
+                "date": "Fri 5.25.18",
+                "time": "6:30 PM CT",
+                "location": "Sacramento, Calif.",
+                "result": " "
+            },
+            {
+                "opponent": "NCAA West Prelims",
+                "date": "Sat 5.26.18",
+                "time": "6 PM CT",
+                "location": "Sacramento, Calif.",
+                "result": " "
+            },
+            {
+                "opponent": "NCAA Outdoor Championships",
+                "date": "Wed 6.6.18",
+                "time": "6:30 PM CT",
+                "location": "Eugene, Ore.",
+                "result": " "
+            },
+            {
+                "opponent": "NCAA Outdoor Championships",
+                "date": "Fri 6.8.18",
+                "time": "7 PM CT",
+                "location": "Eugene, Ore.",
+                "result": " "
+            }
+        ],
+        "wrestling": [
+            {
+                "opponent": "Michigan State",
+                "date": "Fri 1.11.19",
+                "time": "TBA",
+                "location": "East Lansing, Mich.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Michigan",
+                "date": "Sun 1.13.19",
+                "time": "TBA",
+                "location": "Ann Arbor, Mich.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Minnesota",
+                "date": "Fri 1.18.19",
+                "time": "TBA",
+                "location": "Huff Hall",
+                "result": "not available"
+            },
+            {
+                "opponent": "Iowa",
+                "date": "Fri 1.25.19",
+                "time": "TBA",
+                "location": "Huff Hall",
+                "result": "not available"
+            },
+            {
+                "opponent": "Nebraska",
+                "date": "Sun 1.27.19",
+                "time": "TBA",
+                "location": "Lincoln, Neb.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Ohio State",
+                "date": "Fri 2.1.19",
+                "time": "TBA",
+                "location": "Huff Hall",
+                "result": "not available"
+            },
+            {
+                "opponent": "Wisconsin",
+                "date": "Sun 2.10.19",
+                "time": "TBA",
+                "location": "Madison, Wis.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Northwestern",
+                "date": "Fri 2.15.19",
+                "time": "TBA",
+                "location": "Evanston, Ill.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Penn State",
+                "date": "Sun 2.17.19",
+                "time": "TBA",
+                "location": "Huff Hall",
+                "result": "not available"
+            }
+        ],
+        "wbball": [
+            {
+                "opponent": "Fort Wayne",
+                "date": "Fri 11.10.17",
+                "time": "1PM",
+                "location": "State Farm Center",
+                "result": "W 64-50"
+            },
+            {
+                "opponent": "Florida Gulf Coast",
+                "date": "Sun 11.12.17",
+                "time": "5PM",
+                "location": "Fort Myers, Florida",
+                "result": "L 61-85"
+            },
+            {
+                "opponent": "Chicago State",
+                "date": "Wed 11.15.17",
+                "time": "7PM",
+                "location": "State Farm Center",
+                "result": "W 66-56"
+            },
+            {
+                "opponent": "Bradley",
+                "date": "Sat 11.18.17",
+                "time": "2PM",
+                "location": "State Farm Center",
+                "result": "W 74-62"
+            },
+            {
+                "opponent": "Western Illinois",
+                "date": "Tue 11.21.17",
+                "time": "7PM",
+                "location": "State Farm Center",
+                "result": "L 67-77"
+            },
+            {
+                "opponent": "UC Irvine",
+                "date": "Fri 11.24.17",
+                "time": "5:30PM",
+                "location": "Albuquerque, NM",
+                "result": "W 65-59"
+            },
+            {
+                "opponent": "Wichita State",
+                "date": "Sat 11.25.17",
+                "time": "1PM",
+                "location": "Albuquerque, NM",
+                "result": "W 68-67"
+            },
+            {
+                "opponent": "New Mexico",
+                "date": "Sun 11.26.17",
+                "time": "3:30PM",
+                "location": "Albuquerque, NM",
+                "result": "L 68-97"
+            },
+            {
+                "opponent": "Virginia Tech",
+                "date": "Thu 11.30.17",
+                "time": "7PM",
+                "location": "State Farm Center",
+                "result": "L 49-96"
+            },
+            {
+                "opponent": "Memphis",
+                "date": "Sun 12.3.17",
+                "time": "2PM",
+                "location": "Memphis, TN",
+                "result": "W 63-47"
+            },
+            {
+                "opponent": "Indiana State",
+                "date": "Thu 12.7.17",
+                "time": "7PM",
+                "location": "State Farm Center",
+                "result": "W 81-52"
+            },
+            {
+                "opponent": "Detroit Mercy",
+                "date": "Sun 12.10.17",
+                "time": "2PM",
+                "location": "State Farm Center",
+                "result": "W 73-65"
+            },
+            {
+                "opponent": "Austin Peay",
+                "date": "Sat 12.16.17",
+                "time": "2PM",
+                "location": "State Farm Center",
+                "result": "W 59-47"
+            },
+            {
+                "opponent": "No. 16 Missouri",
+                "date": "Fri 12.22.17",
+                "time": "12PM",
+                "location": "Columbia, MO",
+                "result": "L 55-72"
+            },
+            {
+                "opponent": "No. 15 Maryland",
+                "date": "Thu 12.28.17",
+                "time": "5PM",
+                "location": "College Park, MD",
+                "result": "L 65-100"
+            },
+            {
+                "opponent": "Northwestern",
+                "date": "Sun 12.31.17",
+                "time": "2PM",
+                "location": "State Farm Center",
+                "result": "L 59-74"
+            },
+            {
+                "opponent": "Rutgers",
+                "date": "Wed 1.3.18",
+                "time": "6PM",
+                "location": "Piscataway, NJ",
+                "result": "L 37-76"
+            },
+            {
+                "opponent": "Iowa",
+                "date": "Sun 1.7.18",
+                "time": "1PM",
+                "location": "State Farm Center",
+                "result": "L 71-84"
+            },
+            {
+                "opponent": "Nebraska",
+                "date": "Wed 1.10.18",
+                "time": "7PM",
+                "location": "State Farm Center",
+                "result": "L 72-80"
+            },
+            {
+                "opponent": "Michigan State",
+                "date": "Tue 1.16.18",
+                "time": "8PM",
+                "location": "State Farm Center",
+                "result": "L 55-67"
+            },
+            {
+                "opponent": "Michigan",
+                "date": "Sat 1.20.18",
+                "time": "5PM",
+                "location": "Ann Arbor, MI",
+                "result": "L 42-86"
+            },
+            {
+                "opponent": "Penn State",
+                "date": "Tue 1.23.18",
+                "time": "6PM",
+                "location": "University Park, PA",
+                "result": "L 59-68"
+            },
+            {
+                "opponent": "Wisconsin",
+                "date": "Sun 1.28.18",
+                "time": "3PM",
+                "location": "State Farm Center",
+                "result": "L 61-70"
+            },
+            {
+                "opponent": "Nebraska",
+                "date": "Thu 2.1.18",
+                "time": "7PM",
+                "location": "Lincoln, NE",
+                "result": "L 47-62"
+            },
+            {
+                "opponent": "Purdue",
+                "date": "Sun 2.4.18",
+                "time": "1PM",
+                "location": "State Farm Center",
+                "result": "L 54-73"
+            },
+            {
+                "opponent": "Indiana",
+                "date": "Thu 2.8.18",
+                "time": "6PM",
+                "location": "Bloomington, IN",
+                "result": "L 54-70"
+            },
+            {
+                "opponent": "Ohio State",
+                "date": "Tue 2.13.18",
+                "time": "7PM",
+                "location": "State Farm Center",
+                "result": "L 69-88"
+            },
+            {
+                "opponent": "Northwestern",
+                "date": "Sun 2.18.18",
+                "time": "2PM",
+                "location": "Evanston, IL",
+                "result": "L 61-68"
+            },
+            {
+                "opponent": "Purdue",
+                "date": "Wed 2.21.18",
+                "time": "6PM",
+                "location": "West Lafayette, IN",
+                "result": "L 51-64"
+            },
+            {
+                "opponent": "Minnesota",
+                "date": "Sun 2.25.18",
+                "time": "2PM",
+                "location": "State Farm Center",
+                "result": "L 75-84"
+            },
+            {
+                "opponent": "#11 Penn State",
+                "date": "Wed 2.28.18",
+                "time": "approx. 3 PM",
+                "location": "Indianapolis, IN",
+                "result": "L 57-83"
+            }
+        ],
+        "wcross": [
+            {
+                "opponent": "EIU Walt Crawford Open",
+                "date": "Fri 9.1.17",
+                "time": "4:45 PM CT",
+                "location": "Charleston, Ill.",
+                "result": " "
+            },
+            {
+                "opponent": "Coast to Coast Battle Beantown",
+                "date": "Fri 9.22.17",
+                "time": "2 PM CT",
+                "location": "Boston, Mass.",
+                "result": " "
+            },
+            {
+                "opponent": "Greater Louisville Classic",
+                "date": "Sat 9.30.17",
+                "time": "9:15 AM CT",
+                "location": "Louisville, Ky.",
+                "result": " "
+            },
+            {
+                "opponent": "Ed Nuttycombe Invite",
+                "date": "Fri 10.13.17",
+                "time": "11 AM CT",
+                "location": "Madison, Wis.",
+                "result": " "
+            },
+            {
+                "opponent": "Illini Open",
+                "date": "Fri 10.20.17",
+                "time": "4 PM CT",
+                "location": "Champaign, Ill.",
+                "result": " "
+            },
+            {
+                "opponent": "Big Ten Championships",
+                "date": "Sun 10.29.17",
+                "time": "10:45 AM CT",
+                "location": "Bloomington, Ind.",
+                "result": " "
+            },
+            {
+                "opponent": "NCAA Regionals",
+                "date": "Fri 11.10.17",
+                "time": "10:45 AM CT",
+                "location": "Ames, Iowa",
+                "result": " "
+            }
+        ],
+        "wgolf": [
+            {
+                "opponent": "Mercedes Benz Collegiate",
+                "date": "Mon 9.17.18 - Mon 9.17.18",
+                "time": "",
+                "location": "Knoxville, TN",
+                "result": "not available"
+            },
+            {
+                "opponent": "Mercedes Benz Collegiate",
+                "date": "Tue 9.18.18 - Tue 9.18.18",
+                "time": "",
+                "location": "Knoxville, TN",
+                "result": "not available"
+            },
+            {
+                "opponent": "Coeur D'Alene Resort Collegiate",
+                "date": "Mon 9.24.18 - Mon 9.24.18",
+                "time": "",
+                "location": "Coeur D'Alene, ID",
+                "result": "not available"
+            },
+            {
+                "opponent": "Coeur D'Alene Resort Collegiate",
+                "date": "Tue 9.25.18 - Tue 9.25.18",
+                "time": "",
+                "location": "Coeur D'Alene, ID",
+                "result": "not available"
+            },
+            {
+                "opponent": "Illini Women's Invitational at Medinah",
+                "date": "Mon 10.8.18 - Mon 10.8.18",
+                "time": "",
+                "location": "Medinah, IL",
+                "result": "not available"
+            },
+            {
+                "opponent": "Illini Women's Invitational at Medinah",
+                "date": "Tue 10.9.18 - Tue 10.9.18",
+                "time": "",
+                "location": "Medinah, IL",
+                "result": "not available"
+            },
+            {
+                "opponent": "Cardinal Cup",
+                "date": "Sat 10.20.18 - Sat 10.20.18",
+                "time": "",
+                "location": "Simpsonville, KY",
+                "result": "not available"
+            },
+            {
+                "opponent": "Cardinal Cup",
+                "date": "Sun 10.21.18 - Sun 10.21.18",
+                "time": "",
+                "location": "Simpsonville, KY",
+                "result": "not available"
+            },
+            {
+                "opponent": "Trinity Forest Invitational",
+                "date": "Mon 10.29.18 - Mon 10.29.18",
+                "time": "",
+                "location": "Dallas, TX",
+                "result": "not available"
+            },
+            {
+                "opponent": "Trinity Forest Invitational",
+                "date": "Tue 10.30.18 - Tue 10.30.18",
+                "time": "",
+                "location": "Dallas, TX",
+                "result": "not available"
+            },
+            {
+                "opponent": "UCF Challenge",
+                "date": "Sun 2.3.19 - Sun 2.3.19",
+                "time": "",
+                "location": "Orlando, FL",
+                "result": "not available"
+            },
+            {
+                "opponent": "UCF Challenge",
+                "date": "Mon 2.4.19 - Mon 2.4.19",
+                "time": "",
+                "location": "Orlando, FL",
+                "result": "not available"
+            },
+            {
+                "opponent": "UCF Challenge",
+                "date": "Tue 2.5.19 - Tue 2.5.19",
+                "time": "",
+                "location": "Orlando, FL",
+                "result": "not available"
+            },
+            {
+                "opponent": "Westbrook Spring Invitational",
+                "date": "Sun 2.24.19 - Sun 2.24.19",
+                "time": "",
+                "location": "Peoria, AZ",
+                "result": "not available"
+            },
+            {
+                "opponent": "Westbrook Spring Invitational",
+                "date": "Mon 2.25.19 - Mon 2.25.19",
+                "time": "",
+                "location": "Peoria, AZ",
+                "result": "not available"
+            },
+            {
+                "opponent": "Briar's Creek Invitational",
+                "date": "Mon 3.18.19 - Mon 3.18.19",
+                "time": "",
+                "location": "Johns Island, SC",
+                "result": "not available"
+            },
+            {
+                "opponent": "Briar's Creek Invitational",
+                "date": "Tue 3.19.19 - Tue 3.19.19",
+                "time": "",
+                "location": "Johns Island, SC",
+                "result": "not available"
+            },
+            {
+                "opponent": "Clemson Invitational",
+                "date": "Sun 4.7.19 - Sun 4.7.19",
+                "time": "",
+                "location": "Sunset, SC",
+                "result": "not available"
+            },
+            {
+                "opponent": "Clemson Invitational",
+                "date": "Mon 4.8.19 - Mon 4.8.19",
+                "time": "",
+                "location": "Sunset, SC",
+                "result": "not available"
+            },
+            {
+                "opponent": "Clemson Invitational",
+                "date": "Tue 4.9.19 - Tue 4.9.19",
+                "time": "",
+                "location": "Sunset, SC",
+                "result": "not available"
+            },
+            {
+                "opponent": "Lady Buckeye Invitational",
+                "date": "Sat 4.13.19 - Sat 4.13.19",
+                "time": "",
+                "location": "Columbus, OH",
+                "result": "not available"
+            },
+            {
+                "opponent": "Lady Buckeye Invitational",
+                "date": "Sun 4.14.19 - Sun 4.14.19",
+                "time": "",
+                "location": "Columbus, OH",
+                "result": "not available"
+            },
+            {
+                "opponent": "Big Ten Championships",
+                "date": "Fri 4.19.19 - Fri 4.19.19",
+                "time": "",
+                "location": "Maineville, OH",
+                "result": "not available"
+            },
+            {
+                "opponent": "Big Ten Championships",
+                "date": "Sat 4.20.19 - Sat 4.20.19",
+                "time": "",
+                "location": "Maineville, OH",
+                "result": "not available"
+            },
+            {
+                "opponent": "Big Ten Championships",
+                "date": "Sun 4.21.19 - Sun 4.21.19",
+                "time": "",
+                "location": "Maineville, OH",
+                "result": "not available"
+            },
+            {
+                "opponent": "NCAA Regional",
+                "date": "Mon 5.6.19 - Mon 5.6.19",
+                "time": "",
+                "location": "TBD",
+                "result": "not available"
+            },
+            {
+                "opponent": "NCAA Regional",
+                "date": "Tue 5.7.19 - Tue 5.7.19",
+                "time": "",
+                "location": "TBD",
+                "result": "not available"
+            },
+            {
+                "opponent": "NCAA Regional",
+                "date": "Wed 5.8.19 - Wed 5.8.19",
+                "time": "",
+                "location": "TBD",
+                "result": "not available"
+            },
+            {
+                "opponent": "NCAA Championship",
+                "date": "Fri 5.17.19 - Fri 5.17.19",
+                "time": "",
+                "location": "Fayetteville, AR",
+                "result": "not available"
+            },
+            {
+                "opponent": "NCAA Championship",
+                "date": "Sat 5.18.19 - Sat 5.18.19",
+                "time": "",
+                "location": "Fayetteville, AR",
+                "result": "not available"
+            },
+            {
+                "opponent": "NCAA Championship",
+                "date": "Sun 5.19.19 - Sun 5.19.19",
+                "time": "",
+                "location": "Fayetteville, AR",
+                "result": "not available"
+            },
+            {
+                "opponent": "NCAA Championship",
+                "date": "Mon 5.20.19 - Mon 5.20.19",
+                "time": "",
+                "location": "Fayetteville, AR",
+                "result": "not available"
+            },
+            {
+                "opponent": "NCAA Championship",
+                "date": "Tue 5.21.19 - Tue 5.21.19",
+                "time": "",
+                "location": "Fayetteville, AR",
+                "result": "not available"
+            },
+            {
+                "opponent": "NCAA Championship",
+                "date": "Wed 5.22.19 - Wed 5.22.19",
+                "time": "",
+                "location": "Fayetteville, AR",
+                "result": "not available"
+            }
+        ],
+        "wgym": [
+            {
+                "opponent": "Orange and Blue Exhibition",
+                "date": "Sat 12.9.17",
+                "time": "4PM",
+                "location": "Huff Hall",
+                "result": " "
+            },
+            {
+                "opponent": "Rutgers (with Southern Connecticut, Yale)",
+                "date": "Sat 1.13.18",
+                "time": "12PM",
+                "location": "Piscataway, NJ",
+                "result": " "
+            },
+            {
+                "opponent": "Michigan",
+                "date": "Fri 1.19.18",
+                "time": "7PM",
+                "location": "Huff Hall",
+                "result": "L 194.325-194.975"
+            },
+            {
+                "opponent": "Penn State",
+                "date": "Sat 1.27.18",
+                "time": "3PM",
+                "location": "University Park, PA",
+                "result": "W 195.750-195.475"
+            },
+            {
+                "opponent": "Iowa",
+                "date": "Fri 2.2.18",
+                "time": "7PM",
+                "location": "Huff Hall",
+                "result": "W 195.325-195.150"
+            },
+            {
+                "opponent": "Minnesota",
+                "date": "Fri 2.9.18",
+                "time": "7PM",
+                "location": "Minneapolis, MN",
+                "result": "L 195.100-196.100"
+            },
+            {
+                "opponent": "Michigan State",
+                "date": "Sat 2.17.18",
+                "time": "5PM",
+                "location": "East Lansing, MI",
+                "result": "W 196.350-194.550"
+            },
+            {
+                "opponent": "Missouri, UIC",
+                "date": "Sun 2.25.18",
+                "time": "4PM",
+                "location": "Huff Hall",
+                "result": "2nd of 3, 195.400"
+            },
+            {
+                "opponent": "ELEVATE Invite (Georgia, Nebraska, Stanford)",
+                "date": "Fri 3.2.18",
+                "time": "6:30 PM CT",
+                "location": "Augusta, GA",
+                "result": "3rd of 4, 195.900"
+            },
+            {
+                "opponent": "Lindenwood, Bowling Green",
+                "date": "Sun 3.4.18",
+                "time": "4PM",
+                "location": "Huff Hall",
+                "result": "1st of 3, 196.700 "
+            },
+            {
+                "opponent": "State of Illinois Classic",
+                "date": "Sun 3.11.18",
+                "time": "2PM",
+                "location": "Chicago, IL",
+                "result": "1st of 4, 195.025"
+            },
+            {
+                "opponent": "B1G Five Meet",
+                "date": "Sat 3.17.18",
+                "time": "1PM",
+                "location": "East Lansing, MI",
+                "result": "1st of 5, 196.850"
+            },
+            {
+                "opponent": "Big Ten Championships",
+                "date": "Sat 3.24.18",
+                "time": "7PM",
+                "location": "State Farm Center",
+                "result": "3rd of 10, 196.625  "
+            },
+            {
+                "opponent": "NCAA Regional",
+                "date": "Sat 4.7.18",
+                "time": "4PM",
+                "location": "Tuscaloosa, Ala.",
+                "result": "3rd of 6, 196.425 "
+            },
+            {
+                "opponent": "NCAA Championships - Rae Balthazor",
+                "date": "Fri 4.20.18",
+                "time": "6 PM CT",
+                "location": "St. Louis, MO",
+                "result": "13th, 39.325"
+            }
+        ],
+        "wsoc": [
+            {
+                "opponent": "Butler (EXH)",
+                "date": "Fri 8.10.18",
+                "time": "6PM",
+                "location": "Illinois Soccer Stadium",
+                "result": "not available"
+            },
+            {
+                "opponent": "Cincinnati (EXH)",
+                "date": "Sun 8.12.18",
+                "time": "12PM",
+                "location": "Cincinnati OH",
+                "result": "not available"
+            },
+            {
+                "opponent": "North Carolina",
+                "date": "Thu 8.16.18",
+                "time": "4PM",
+                "location": "Chapel Hill, NC",
+                "result": "not available"
+            },
+            {
+                "opponent": "Duke",
+                "date": "Sun 8.19.18",
+                "time": "12PM",
+                "location": "Durham, NC",
+                "result": "not available"
+            },
+            {
+                "opponent": "DePaul",
+                "date": "Thu 8.23.18",
+                "time": "4PM",
+                "location": "Chicago, IL",
+                "result": "not available"
+            },
+            {
+                "opponent": "Northern Illinois",
+                "date": "Sun 8.26.18",
+                "time": "2PM",
+                "location": "Illinois Soccer Stadium",
+                "result": "not available"
+            },
+            {
+                "opponent": "Oklahoma State",
+                "date": "Fri 8.31.18",
+                "time": "7PM",
+                "location": "Illinois Soccer Stadium",
+                "result": "not available"
+            },
+            {
+                "opponent": "SIUE",
+                "date": "Sun 9.2.18",
+                "time": "1PM",
+                "location": "Illinois Soccer Stadium",
+                "result": "not available"
+            },
+            {
+                "opponent": "Illinois State",
+                "date": "Sun 9.9.18",
+                "time": "1PM",
+                "location": "Illinois Soccer Stadium",
+                "result": "not available"
+            },
+            {
+                "opponent": "Minnesota",
+                "date": "Fri 9.14.18",
+                "time": "6PM",
+                "location": "Minneapolis, MN",
+                "result": "not available"
+            },
+            {
+                "opponent": "Wisconsin",
+                "date": "Sun 9.16.18",
+                "time": "12PM",
+                "location": "Madison, WI",
+                "result": "not available"
+            },
+            {
+                "opponent": "Ohio State",
+                "date": "Thu 9.20.18",
+                "time": "7PM",
+                "location": "Illinois Soccer Stadium",
+                "result": "not available"
+            },
+            {
+                "opponent": "Penn State",
+                "date": "Sat 9.22.18",
+                "time": "7PM",
+                "location": "Illinois Soccer Stadium",
+                "result": "not available"
+            },
+            {
+                "opponent": "Michigan State",
+                "date": "Sat 9.29.18",
+                "time": "6PM",
+                "location": "Illinois Soccer Stadium",
+                "result": "not available"
+            },
+            {
+                "opponent": "Maryland",
+                "date": "Thu 10.4.18",
+                "time": "6PM",
+                "location": "College Park, MD",
+                "result": "not available"
+            },
+            {
+                "opponent": "Rutgers",
+                "date": "Sun 10.7.18",
+                "time": "12PM",
+                "location": "Piscataway, NJ",
+                "result": "not available"
+            },
+            {
+                "opponent": "Purdue",
+                "date": "Thu 10.11.18",
+                "time": "7PM",
+                "location": "Illinois Soccer Stadium",
+                "result": "not available"
+            },
+            {
+                "opponent": "Indiana",
+                "date": "Sun 10.14.18",
+                "time": "1PM",
+                "location": "Illinois Soccer Stadium",
+                "result": "not available"
+            },
+            {
+                "opponent": "Northwestern",
+                "date": "Thu 10.18.18",
+                "time": "7PM",
+                "location": "Evanston, IL",
+                "result": "not available"
+            },
+            {
+                "opponent": "Nebraska",
+                "date": "Sun 10.21.18",
+                "time": "1:05PM",
+                "location": "Lincoln, NE",
+                "result": "not available"
+            }
+        ],
+        "softball": [
+            {
+                "opponent": "Providence",
+                "date": "Fri 2.9.18",
+                "time": "11 a.m. CT",
+                "location": "Longwood, Fla.",
+                "result": "W 9-1 "
+            },
+            {
+                "opponent": "North Florida",
+                "date": "Fri 2.9.18",
+                "time": "1:30 p.m. CT",
+                "location": "Longwood, Fla.",
+                "result": "L 3-5"
+            },
+            {
+                "opponent": "South Alabama",
+                "date": "Sat 2.10.18",
+                "time": "3 p.m. CT",
+                "location": "Longwood, Fla.",
+                "result": "L 3-10"
+            },
+            {
+                "opponent": "UCF",
+                "date": "Sat 2.10.18",
+                "time": "5:30 P.M. CT",
+                "location": "Longwood, Fla.",
+                "result": "L 2-3 "
+            },
+            {
+                "opponent": "Louisville",
+                "date": "Sun 2.11.18",
+                "time": "8 a.m. CT",
+                "location": "Longwood, FL",
+                "result": "L 7-9"
+            },
+            {
+                "opponent": "Pittsburgh",
+                "date": "Fri 2.16.18",
+                "time": "12:30 p.m. CT",
+                "location": "Chapel Hill, N.C.",
+                "result": "W 5-4 "
+            },
+            {
+                "opponent": "North Carolina",
+                "date": "Fri 2.16.18",
+                "time": "3 p.m. CT",
+                "location": "Chapel Hill, N.C.",
+                "result": "L 2-6"
+            },
+            {
+                "opponent": "North Carolina",
+                "date": "Sat 2.17.18",
+                "time": "1:30 p.m. CT",
+                "location": "Chapel Hill, N.C.",
+                "result": "W 5-2"
+            },
+            {
+                "opponent": "Pittsburgh",
+                "date": "Sun 2.18.18",
+                "time": "9 a.m. CT",
+                "location": "Chapel Hill, N.C.",
+                "result": "L 0-9 "
+            },
+            {
+                "opponent": "Northern Illinois",
+                "date": "Fri 3.2.18",
+                "time": "10 AM CT",
+                "location": "Carbondale, Ill.",
+                "result": "W 10-2"
+            },
+            {
+                "opponent": "Southern Illinois",
+                "date": "Fri 3.2.18",
+                "time": "2 PM CT",
+                "location": "Carbondale, Ill.",
+                "result": "W 14-1 "
+            },
+            {
+                "opponent": "Murray State",
+                "date": "Sat 3.3.18",
+                "time": "10 a.m. CT",
+                "location": "Carbodale, Ill.",
+                "result": "W 7-2"
+            },
+            {
+                "opponent": "Southern Illinois",
+                "date": "Sat 3.3.18",
+                "time": "2 p.m. CT",
+                "location": "Carbondale, IL",
+                "result": "W 5-0"
+            },
+            {
+                "opponent": "Northern Illinois",
+                "date": "Sun 3.4.18",
+                "time": "2 p.m. CT",
+                "location": "Carbondale, Ill.",
+                "result": "W 2-1"
+            },
+            {
+                "opponent": "Bradley",
+                "date": "Wed 3.7.18",
+                "time": "6 p.m. CT",
+                "location": "Peoria, Ill.",
+                "result": "W 4-3"
+            },
+            {
+                "opponent": "#23 Mississippi State (DH)",
+                "date": "Fri 3.9.18",
+                "time": "4 p.m. CT, 6 p.m. CT",
+                "location": "Starkville, Miss.",
+                "result": "L 5-9, L 1-12 "
+            },
+            {
+                "opponent": "UMass Lowell",
+                "date": "Sat 3.10.18",
+                "time": "2 p.m. CT",
+                "location": "Starksville, Miss.",
+                "result": "W 11-0 "
+            },
+            {
+                "opponent": "UMass Lowell",
+                "date": "Sun 3.11.18",
+                "time": "11 a.m. CT",
+                "location": "Starksville, Miss.",
+                "result": "W 4-3"
+            },
+            {
+                "opponent": "Missouri (at Lindenwood University)",
+                "date": "Wed 3.14.18",
+                "time": "2 p.m. CT, 4 p.m. CT",
+                "location": "St. Charles, Mo.",
+                "result": "W 5-2, W 9-6"
+            },
+            {
+                "opponent": "Fresno State (DH)",
+                "date": "Fri 3.16.18",
+                "time": "5 p.m. CT, 7 p.m. CT",
+                "location": "Fresno, Calif.",
+                "result": "W 10-9, W 8-5 "
+            },
+            {
+                "opponent": "Cal Poly",
+                "date": "Sat 3.17.18",
+                "time": "4 p.m. CT, 6 p.m. CT",
+                "location": "Fresno, Calif.",
+                "result": "L 3-4 "
+            },
+            {
+                "opponent": "UIC",
+                "date": "Tue 3.20.18",
+                "time": "2:15 p.m. CT, 4:15 p.m. CT",
+                "location": "Urbana, Ill.",
+                "result": "W 6-4, W 16-5 "
+            },
+            {
+                "opponent": "SIUE",
+                "date": "Wed 3.21.18",
+                "time": "4 p.m. CT",
+                "location": "Edwardsville, Ill.",
+                "result": "W 10-0 "
+            },
+            {
+                "opponent": "Purdue",
+                "date": "Thu 3.22.18",
+                "time": "4 p.m. CT",
+                "location": "West Lafayette, Ind.",
+                "result": "L 3-6"
+            },
+            {
+                "opponent": "Purdue (DH)",
+                "date": "Fri 3.23.18",
+                "time": "3 p.m. CT, 5 p.m. CT",
+                "location": "West Lafayette, Ind.",
+                "result": "W 14-6 "
+            },
+            {
+                "opponent": "Northwestern",
+                "date": "Wed 3.28.18",
+                "time": "3 p.m. CT, 5 p.m. CT",
+                "location": "Urbana, Ill.",
+                "result": "L 7-8, W 15-9"
+            },
+            {
+                "opponent": "Minnesota (DH)",
+                "date": "Fri 3.30.18",
+                "time": "1 p.m. CT, 3 p.m. CT",
+                "location": "Minneapolis, Minn.",
+                "result": "L 0-6, L 0-6"
+            },
+            {
+                "opponent": "Maryland",
+                "date": "Fri 4.6.18",
+                "time": "1 p.m. CT",
+                "location": "Urbana, Ill.",
+                "result": "W 11-0 "
+            },
+            {
+                "opponent": "Maryland",
+                "date": "Sat 4.7.18",
+                "time": "1 p.m. CT",
+                "location": "Urbana, Ill.",
+                "result": "W 7-1"
+            },
+            {
+                "opponent": "Maryland",
+                "date": "Sun 4.8.18",
+                "time": "12 p.m. CT",
+                "location": "Urbana, Ill.",
+                "result": "W 20-2 "
+            },
+            {
+                "opponent": "Wisconsin (DH)",
+                "date": "Thu 4.12.18",
+                "time": "1 p.m. CT, 3 p.m. CT",
+                "location": "Madison, Wis.",
+                "result": "L 2-4, L 2-6"
+            },
+            {
+                "opponent": "Green Bay",
+                "date": "Wed 4.18.18",
+                "time": "4 p.m. CT, 6 p.m. CT",
+                "location": "Urbana, Ill.",
+                "result": "W 4-1, W 6-4"
+            },
+            {
+                "opponent": "Iowa",
+                "date": "Fri 4.20.18",
+                "time": "5 p.m. CT",
+                "location": "Urbana, Ill.",
+                "result": "W 7-1"
+            },
+            {
+                "opponent": "Iowa",
+                "date": "Sat 4.21.18",
+                "time": "6 p.m. CT",
+                "location": "Urbana, Ill.",
+                "result": "W 6-5 "
+            },
+            {
+                "opponent": "Iowa",
+                "date": "Sun 4.22.18",
+                "time": "12 p.m. CT",
+                "location": "Urbana, Ill.",
+                "result": "W 9-7"
+            },
+            {
+                "opponent": "Eastern Illinois",
+                "date": "Wed 4.25.18",
+                "time": "5 p.m. CT",
+                "location": "Urbana, Ill.",
+                "result": "W 5-4"
+            },
+            {
+                "opponent": "Penn State",
+                "date": "Fri 4.27.18",
+                "time": "7 p.m. CT",
+                "location": "University Park, Pa.",
+                "result": "W 10-4"
+            },
+            {
+                "opponent": "Penn State",
+                "date": "Sat 4.28.18",
+                "time": "2 PM CT",
+                "location": "University Park, Pa.",
+                "result": "W 11-4"
+            },
+            {
+                "opponent": "Penn State",
+                "date": "Sun 4.29.18",
+                "time": "11 a.m. CT",
+                "location": "University Park, Pa.",
+                "result": "L 3-4 "
+            },
+            {
+                "opponent": "IUPUI",
+                "date": "Tue 5.1.18",
+                "time": "5 p.m. CT",
+                "location": "Urbana, Ill.",
+                "result": "W 7-2"
+            },
+            {
+                "opponent": "Nebraska",
+                "date": "Fri 5.4.18",
+                "time": "5 p.m. CT",
+                "location": "Urbana, Ill.",
+                "result": "W 5-4"
+            },
+            {
+                "opponent": "Nebraska",
+                "date": "Sat 5.5.18",
+                "time": "1 p.m. CT",
+                "location": "Urbana, Ill.",
+                "result": "W 6-2"
+            },
+            {
+                "opponent": "Nebraska",
+                "date": "Sun 5.6.18",
+                "time": "12 p.m. CT",
+                "location": "Urbana, Ill.",
+                "result": "L 3-6"
+            },
+            {
+                "opponent": "Maryland",
+                "date": "Thu 5.10.18",
+                "time": "1:30 PM CT",
+                "location": "Madison, Wis.",
+                "result": "W 5-3"
+            },
+            {
+                "opponent": "Indiana",
+                "date": "Fri 5.11.18",
+                "time": "1:30 PM CT",
+                "location": "Madison, Wis.",
+                "result": "L 1-2"
+            }
+        ],
+        "wswim": [
+            {
+                "opponent": "Orange & Blue",
+                "date": "Sat 9.30.17",
+                "time": "9AM",
+                "location": "ARC Pool",
+                "result": "not available"
+            },
+            {
+                "opponent": "Indiana State",
+                "date": "Fri 10.13.17",
+                "time": "4PM",
+                "location": "ARC Pool",
+                "result": "W 188-111"
+            },
+            {
+                "opponent": "Michigan State",
+                "date": "Fri 10.20.17",
+                "time": "4PM",
+                "location": "East Lansing, MI",
+                "result": "L 136-162"
+            },
+            {
+                "opponent": "Rutgers",
+                "date": "Fri 10.27.17",
+                "time": "3PM",
+                "location": "ARC Pool",
+                "result": "L 140-158"
+            },
+            {
+                "opponent": "Northwestern",
+                "date": "Fri 10.27.17",
+                "time": "3PM",
+                "location": "ARC Pool",
+                "result": "L 110-188"
+            },
+            {
+                "opponent": "Illinois State",
+                "date": "Sat 10.28.17",
+                "time": "10:30AM",
+                "location": "Normal, IL",
+                "result": "L 143-155"
+            },
+            {
+                "opponent": "Southern Illinois",
+                "date": "Sat 10.28.17",
+                "time": "10:30AM",
+                "location": "Normal, IL",
+                "result": "L 123.50-176.50"
+            },
+            {
+                "opponent": "Florida International",
+                "date": "Fri 11.3.17 - Sat 11.4.17",
+                "time": "4PM",
+                "location": "Miami, FL",
+                "result": "L 166.5-251.5"
+            },
+            {
+                "opponent": "Missouri Invitational",
+                "date": "Thu 11.16.17",
+                "time": "All Day",
+                "location": "Columbia, MO",
+                "result": "not available"
+            },
+            {
+                "opponent": "Missouri Invitational",
+                "date": "Fri 11.17.17",
+                "time": "All Day",
+                "location": "Columbia, MO",
+                "result": "not available"
+            },
+            {
+                "opponent": "Missouri Invitational",
+                "date": "Sat 11.18.17",
+                "time": "All Day",
+                "location": "Columbia, MO",
+                "result": " "
+            },
+            {
+                "opponent": "Iowa and Notre Dame",
+                "date": "Fri 1.12.18 - Sat 1.13.18",
+                "time": "7PM",
+                "location": "Iowa City, IA",
+                "result": " "
+            },
+            {
+                "opponent": "Nebraska",
+                "date": "Sat 1.20.18",
+                "time": "11AM",
+                "location": "Lincoln, NE",
+                "result": "L 112-183"
+            },
+            {
+                "opponent": "Illinois Quad Duals",
+                "date": "Fri 1.26.18",
+                "time": "4PM",
+                "location": "ARC Pool",
+                "result": " "
+            },
+            {
+                "opponent": "Illinois Tri-Meet",
+                "date": "Sat 1.27.18",
+                "time": "11AM",
+                "location": "ARC Pool",
+                "result": " "
+            },
+            {
+                "opponent": "UIC Diving Invitational",
+                "date": "Sat 2.3.18",
+                "time": "11AM",
+                "location": "Chicago, IL",
+                "result": "not available"
+            },
+            {
+                "opponent": "Big Ten Championships",
+                "date": "Wed 2.14.18",
+                "time": "All Day",
+                "location": "Columbus, Ohio",
+                "result": "not available"
+            },
+            {
+                "opponent": "Big Ten Championships",
+                "date": "Thu 2.15.18",
+                "time": "All Day",
+                "location": "Columbus, Ohio",
+                "result": "not available"
+            },
+            {
+                "opponent": "Big Ten Championships",
+                "date": "Fri 2.16.18",
+                "time": "All Day",
+                "location": "Columbus, Ohio",
+                "result": "not available"
+            },
+            {
+                "opponent": "Big Ten Championships",
+                "date": "Sat 2.17.18",
+                "time": "All Day",
+                "location": "Columbus, Ohio",
+                "result": " "
+            },
+            {
+                "opponent": "Last Chance Meet",
+                "date": "Sat 2.24.18",
+                "time": "All Day",
+                "location": "West Lafayette, IN",
+                "result": "not available"
+            },
+            {
+                "opponent": "NCAA Zone Championships",
+                "date": "Thu 3.8.18",
+                "time": "All Day",
+                "location": "Columbus, Ohio",
+                "result": "not available"
+            }
+        ],
+        "wten": [
+            {
+                "opponent": "Midland Invite",
+                "date": "Fri 9.15.17 - Sun 9.17.17",
+                "time": "All Day",
+                "location": "Midland, TX",
+                "result": "not available"
+            },
+            {
+                "opponent": "Duke Invite",
+                "date": "Fri 9.15.17 - Sun 9.17.17",
+                "time": "All Day",
+                "location": "Durham, NC",
+                "result": "not available"
+            },
+            {
+                "opponent": "ITA Midwest Regionals",
+                "date": "Thu 10.12.17 - Tue 10.17.17",
+                "time": "All Day",
+                "location": "Ann Arbor, MI",
+                "result": "not available"
+            },
+            {
+                "opponent": "Oracle ITA National Fall Championships",
+                "date": "Wed 11.1.17 - Wed 11.1.17",
+                "time": "All Day",
+                "location": "Indian Wells, CA",
+                "result": "not available"
+            },
+            {
+                "opponent": "ASU Thunderbird Invite",
+                "date": "Sat 11.4.17 - Mon 11.6.17",
+                "time": "All Day",
+                "location": "Tempe, AZ",
+                "result": "not available"
+            },
+            {
+                "opponent": "Florida State University",
+                "date": "Sun 1.21.18",
+                "time": "9:30AM",
+                "location": "Atkins Tennis Center",
+                "result": "W 4-1"
+            },
+            {
+                "opponent": "Eastern Illinois University",
+                "date": "Sun 1.21.18",
+                "time": "4PM",
+                "location": "Atkins Tennis Center",
+                "result": "W 7-0"
+            },
+            {
+                "opponent": "William & Mary",
+                "date": "Fri 1.26.18",
+                "time": "10AM",
+                "location": "Chapel Hill, NC",
+                "result": "W 4-2"
+            },
+            {
+                "opponent": "#5  UNC",
+                "date": "Sat 1.27.18",
+                "time": "2:30PM",
+                "location": "Chapel Hill, NC",
+                "result": "L 0-4"
+            },
+            {
+                "opponent": "#11  Texas",
+                "date": "Fri 2.2.18",
+                "time": "5PM",
+                "location": "Atkins Tennis Center",
+                "result": "W 4-2"
+            },
+            {
+                "opponent": "Furman",
+                "date": "Fri 2.9.18",
+                "time": "2PM",
+                "location": "Atkins Tennis Center",
+                "result": "W 7-0"
+            },
+            {
+                "opponent": "Iowa",
+                "date": "Sat 2.17.18",
+                "time": "11AM",
+                "location": "Atkins Tennis Center",
+                "result": "W 6-1"
+            },
+            {
+                "opponent": "#22  Washington",
+                "date": "Sun 2.18.18",
+                "time": "11AM",
+                "location": "Atkins Tennis Center",
+                "result": "W 4-3"
+            },
+            {
+                "opponent": "Yale",
+                "date": "Fri 2.23.18",
+                "time": "12:30PM",
+                "location": "Montgomery, Ala.",
+                "result": "W 4-1"
+            },
+            {
+                "opponent": "Auburn",
+                "date": "Sat 2.24.18",
+                "time": "8:30AM",
+                "location": "Montgomery, Ala.",
+                "result": "W 4-3"
+            },
+            {
+                "opponent": "#10  Wake Forest",
+                "date": "Sat 2.24.18",
+                "time": "2PM",
+                "location": "Montgomery, Ala.",
+                "result": "W 4-3"
+            },
+            {
+                "opponent": "#14  Northwestern",
+                "date": "Fri 3.2.18",
+                "time": "2PM",
+                "location": "Atkins Tennis Center",
+                "result": "L 3-4"
+            },
+            {
+                "opponent": "Indiana",
+                "date": "Sat 3.10.18",
+                "time": "10:30AM",
+                "location": "Atkins Tennis Center",
+                "result": "W 6-1"
+            },
+            {
+                "opponent": "Purdue",
+                "date": "Sun 3.11.18",
+                "time": "3PM",
+                "location": "Atkins Tennis Center",
+                "result": "W 6-1"
+            },
+            {
+                "opponent": "Hawaii",
+                "date": "Wed 3.21.18",
+                "time": "7:30PM",
+                "location": "Manoa, HI",
+                "result": "W 5-0"
+            },
+            {
+                "opponent": "UC-Santa Barbara",
+                "date": "Sat 3.24.18",
+                "time": "2PM",
+                "location": "Santa Barbara, CA",
+                "result": "W 4-0"
+            },
+            {
+                "opponent": "Rutgers",
+                "date": "Fri 3.30.18",
+                "time": "11:30AM",
+                "location": "Piscataway, NJ",
+                "result": "W 6-1"
+            },
+            {
+                "opponent": "Maryland",
+                "date": "Sun 4.1.18",
+                "time": "11AM",
+                "location": "Atkins Tennis Center",
+                "result": "W 4-1"
+            },
+            {
+                "opponent": "#24  Michigan",
+                "date": "Sat 4.7.18",
+                "time": "11AM",
+                "location": "Ann Arbor, MI",
+                "result": "L 0-4"
+            },
+            {
+                "opponent": "Michigan State",
+                "date": "Sun 4.8.18",
+                "time": "11AM",
+                "location": "East Lansing, MI",
+                "result": "W 4-1"
+            },
+            {
+                "opponent": "Minnesota",
+                "date": "Fri 4.13.18",
+                "time": "4PM",
+                "location": "Atkins Tennis Center",
+                "result": "W 4-0"
+            },
+            {
+                "opponent": "Wisconsin",
+                "date": "Sun 4.15.18",
+                "time": "12PM",
+                "location": "Atkins Tennis Center",
+                "result": "W 4-0"
+            },
+            {
+                "opponent": "Ohio State",
+                "date": "Fri 4.20.18",
+                "time": "3PM",
+                "location": "Columbus, OH",
+                "result": "L 3-4"
+            },
+            {
+                "opponent": "Penn State",
+                "date": "Sun 4.22.18",
+                "time": "10AM",
+                "location": "University Park, PA",
+                "result": "W 5-2"
+            },
+            {
+                "opponent": "Nebraska",
+                "date": "Fri 4.27.18",
+                "time": "4:30PM",
+                "location": "Minneapolis, MN",
+                "result": "W 4-0"
+            },
+            {
+                "opponent": "Michigan",
+                "date": "Sat 4.28.18",
+                "time": "1:30PM",
+                "location": "Minneapolis, Minn.",
+                "result": "L 3-4"
+            },
+            {
+                "opponent": "Princeton",
+                "date": "Fri 5.11.18",
+                "time": "10AM",
+                "location": "Lubbock, TX",
+                "result": "W 4-3"
+            },
+            {
+                "opponent": "#11 Texas Tech",
+                "date": "Sat 5.12.18",
+                "time": "1PM",
+                "location": "Lubbock, TX",
+                "result": "L 2-4"
+            }
+        ],
+        "wtrack": [
+            {
+                "opponent": "Illinois Open",
+                "date": "Sat 1.13.18",
+                "time": "10 AM CT",
+                "location": "Champaign, Ill.",
+                "result": " "
+            },
+            {
+                "opponent": "Mark Colligan Memorial",
+                "date": "Sat 1.20.18",
+                "time": "11:30 AM CT",
+                "location": "Lincoln, Neb.",
+                "result": " "
+            },
+            {
+                "opponent": "Illini Classic",
+                "date": "Sat 1.27.18",
+                "time": "10 AM CT",
+                "location": "Champaign, Ill.",
+                "result": " "
+            },
+            {
+                "opponent": "Rod McCravy Memorial",
+                "date": "Sat 2.3.18",
+                "time": "9 AM CT",
+                "location": "Lexington, Ky.",
+                "result": " "
+            },
+            {
+                "opponent": "Iowa State Classic",
+                "date": "Fri 2.9.18",
+                "time": "11 AM CT",
+                "location": "Ames, Iowa",
+                "result": " "
+            },
+            {
+                "opponent": "Iowa State Classic",
+                "date": "Sat 2.10.18",
+                "time": "11 AM CT",
+                "location": "Ames, Iowa",
+                "result": "not available"
+            },
+            {
+                "opponent": "Orange and Blue Open",
+                "date": "Sat 2.17.18",
+                "time": "10 AM CT",
+                "location": "Champaign, Ill.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Big Ten Indoor Championships",
+                "date": "Fri 2.23.18",
+                "time": "ALL DAY",
+                "location": "Geneva, Ohio",
+                "result": " "
+            },
+            {
+                "opponent": "Big Ten Indoor Championships",
+                "date": "Sat 2.24.18",
+                "time": "ALL DAY",
+                "location": "Geneva, Ohio",
+                "result": " "
+            },
+            {
+                "opponent": "Bill Cornell Spring Classic",
+                "date": "Sat 3.24.18",
+                "time": "ALL DAY",
+                "location": "Carbondale, Ill.",
+                "result": " "
+            },
+            {
+                "opponent": "Stanford Invite",
+                "date": "Fri 3.30.18",
+                "time": "ALL DAY",
+                "location": "Stanford, Calif.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Ole Miss Classic",
+                "date": "Sat 3.31.18",
+                "time": "ALL DAY",
+                "location": "Oxford, Miss.",
+                "result": " "
+            },
+            {
+                "opponent": "Jim Click Shootout",
+                "date": "Sat 4.7.18",
+                "time": "ALL DAY",
+                "location": "Tucson, AZ",
+                "result": " "
+            },
+            {
+                "opponent": "Illinois Twilight",
+                "date": "Sat 4.14.18",
+                "time": "3 PM CT",
+                "location": "Urbana, Ill.",
+                "result": " "
+            },
+            {
+                "opponent": "Mt. SAC Relays / Bryan Clay",
+                "date": "Thu 4.19.18",
+                "time": "ALL DAY",
+                "location": "Torrance, Calif.",
+                "result": " "
+            },
+            {
+                "opponent": "Mt. SAC Relays / Bryan Clay / Beach Invite",
+                "date": "Fri 4.20.18",
+                "time": "ALL DAY",
+                "location": "Torrance / Asuza / Long Beach, Calif.",
+                "result": " "
+            },
+            {
+                "opponent": "Mt. SAC Relays / Beach Invite",
+                "date": "Sat 4.21.18",
+                "time": "ALL DAY",
+                "location": "Torrance / Asuza / Long Beach, Calif.",
+                "result": " "
+            },
+            {
+                "opponent": "Drake Relays",
+                "date": "Thu 4.26.18",
+                "time": "ALL DAY",
+                "location": "Des Moines, Iowa",
+                "result": "not available"
+            },
+            {
+                "opponent": "Drake Relays",
+                "date": "Fri 4.27.18",
+                "time": "ALL DAY",
+                "location": "Des Moines, Iowa",
+                "result": "not available"
+            },
+            {
+                "opponent": "Drake Relays",
+                "date": "Sat 4.28.18",
+                "time": "ALL DAY",
+                "location": "Des Moines, Iowa",
+                "result": " "
+            },
+            {
+                "opponent": "Big Ten Outdoor Championships",
+                "date": "Fri 5.11.18",
+                "time": "12:30 PM CT",
+                "location": "Bloomington, Ind.",
+                "result": " "
+            },
+            {
+                "opponent": "Big Ten Outdoor Championships",
+                "date": "Sat 5.12.18",
+                "time": "12:20 PM CT",
+                "location": "Bloomington, Ind.",
+                "result": " "
+            },
+            {
+                "opponent": "Big Ten Outdoor Championships",
+                "date": "Sun 5.13.18",
+                "time": "10 AM CT",
+                "location": "Bloomington, Ind.",
+                "result": " "
+            },
+            {
+                "opponent": "NCAA West Prelims",
+                "date": "Thu 5.24.18",
+                "time": "6:30 PM CT",
+                "location": "Sacramento, Calif.",
+                "result": " "
+            },
+            {
+                "opponent": "NCAA West Prelims",
+                "date": "Fri 5.25.18",
+                "time": "6:30 PM CT",
+                "location": "Sacramento, Calif.",
+                "result": " "
+            },
+            {
+                "opponent": "NCAA West Prelims",
+                "date": "Sat 5.26.18",
+                "time": "8 PM CT",
+                "location": "Sacramento, Calif.",
+                "result": " "
+            }
+        ],
+        "wvball": [
+            {
+                "opponent": "Orange & Blue Scrimmage",
+                "date": "Sat 8.18.18",
+                "time": "7 p.m. CT",
+                "location": "Champaign, Ill.",
+                "result": "not available"
+            },
+            {
+                "opponent": "UNCW",
+                "date": "Fri 8.24.18",
+                "time": "1 p.m. CT",
+                "location": "Fort Collins, Colo.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Colorado State",
+                "date": "Fri 8.24.18",
+                "time": "8 p.m. CT",
+                "location": "Fort Collins, Colo.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Northern Colorado",
+                "date": "Sat 8.25.18",
+                "time": "8 p.m. CT",
+                "location": "Fort Collins, Colo.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Colorado",
+                "date": "Fri 8.31.18",
+                "time": "7 p.m. CT",
+                "location": "Seattle, Wash.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Washington",
+                "date": "Sat 9.1.18",
+                "time": "10 p.m. CT",
+                "location": "Seattle, Wash.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Bowling Green",
+                "date": "Fri 9.7.18",
+                "time": "8:30 a.m. CT",
+                "location": "Cleveland, Ohio",
+                "result": "not available"
+            },
+            {
+                "opponent": "Cleveland State",
+                "date": "Fri 9.7.18",
+                "time": "6 p.m. CT",
+                "location": "Cleveland, Ohio",
+                "result": "not available"
+            },
+            {
+                "opponent": "UC Irvine",
+                "date": "Sat 9.8.18",
+                "time": "10 a.m. CT",
+                "location": "Cleveland, Ohio",
+                "result": "not available"
+            },
+            {
+                "opponent": "Northern Iowa vs. Lipscomb",
+                "date": "Fri 9.14.18",
+                "time": "10 a.m. CT",
+                "location": "Champaign, Ill.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Northern Iowa",
+                "date": "Fri 9.14.18",
+                "time": "5 p.m. CT",
+                "location": "Champaign, Ill.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Creighton vs. Lipscomb",
+                "date": "Fri 9.14.18",
+                "time": "7 p.m. CT",
+                "location": "Champaign, Ill.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Northern Iowa vs. Creighton",
+                "date": "Sat 9.15.18",
+                "time": "10 a.m. CT",
+                "location": "Champaign, Ill.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Lipscomb",
+                "date": "Sat 9.15.18",
+                "time": "12 p.m. CT",
+                "location": "Champaign, Ill.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Creighton",
+                "date": "Sat 9.15.18",
+                "time": "7 p.m. CT",
+                "location": "Champaign, Ill.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Purdue",
+                "date": "Fri 9.21.18",
+                "time": "6 p.m. CT",
+                "location": "West Lafayette, Ind.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Indiana",
+                "date": "Sun 9.23.18",
+                "time": "TBA",
+                "location": "Bloomington, Ind.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Iowa",
+                "date": "Fri 9.28.18",
+                "time": "7 p.m. CT",
+                "location": "Champaign, Ill.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Nebraska",
+                "date": "Sat 9.29.18",
+                "time": "7 p.m. CT",
+                "location": "Champaign, Ill.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Wisconsin",
+                "date": "Wed 10.3.18",
+                "time": "7 p.m. CT",
+                "location": "Champaign, Ill.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Northwestern",
+                "date": "Sat 10.6.18",
+                "time": "7 p.m. CT",
+                "location": "Champaign, Ill.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Minnesota",
+                "date": "Fri 10.12.18",
+                "time": "TBA",
+                "location": "Minneapolis, Minn.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Wisconsin",
+                "date": "Sat 10.13.18",
+                "time": "TBA",
+                "location": "Madison, Wis.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Michigan",
+                "date": "Fri 10.19.18",
+                "time": "7 p.m. CT",
+                "location": "Champaign, Ill.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Michigan State",
+                "date": "Sat 10.20.18",
+                "time": "7 p.m. CT",
+                "location": "Champaign, Ill.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Maryland",
+                "date": "Wed 10.24.18",
+                "time": "7 p.m. CT",
+                "location": "Champaign, Ill.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Nebraska",
+                "date": "Sat 10.27.18",
+                "time": "TBA",
+                "location": "Lincoln, Neb.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Ohio State",
+                "date": "Fri 11.2.18",
+                "time": "TBA",
+                "location": "Columbus, Ohio",
+                "result": "not available"
+            },
+            {
+                "opponent": "Maryland",
+                "date": "Sun 11.4.18",
+                "time": "12 p.m. CT",
+                "location": "College Park, Md.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Rutgers",
+                "date": "Fri 11.9.18",
+                "time": "7 p.m. CT",
+                "location": "Champaign, Ill.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Penn State",
+                "date": "Sat 11.10.18",
+                "time": "7 p.m. CT",
+                "location": "Champaign, Ill.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Northwestern",
+                "date": "Wed 11.14.18",
+                "time": "7 p.m. CT",
+                "location": "Evanston, Ill.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Rutgers",
+                "date": "Sat 11.17.18",
+                "time": "6 p.m. CT",
+                "location": "Piscataway, N.J.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Michigan State",
+                "date": "Wed 11.21.18",
+                "time": "TBA",
+                "location": "East Lansing, Mich.",
+                "result": "not available"
+            },
+            {
+                "opponent": "Purdue",
+                "date": "Sat 11.24.18",
+                "time": "7 p.m. CT",
+                "location": "Champaign, Ill.",
+                "result": "not available"
+            },
+            {
+                "opponent": "NCAA First & Second Rounds",
+                "date": "Thu 11.29.18 - Sat 12.1.18",
+                "time": "TBA",
+                "location": "Campus Sites",
+                "result": "not available"
+            },
+            {
+                "opponent": "NCAA Regionals",
+                "date": "Fri 12.7.18 - Sat 12.8.18",
+                "time": "TBA",
+                "location": "Campus Sites",
+                "result": "not available"
+            },
+            {
+                "opponent": "NCAA Semifinals",
+                "date": "Thu 12.13.18",
+                "time": "TBA",
+                "location": "Target Center | Minneapolis, Minn.",
+                "result": "not available"
+            },
+            {
+                "opponent": "NCAA Championship",
+                "date": "Sat 12.15.18",
+                "time": "TBA",
+                "location": "Target Center | Minneapolis, Minn.",
+                "result": "not available"
+            }
+        ]
+    }
+}
