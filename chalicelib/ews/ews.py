@@ -6,7 +6,7 @@ class EWSStatus():
     def __init__(self):
         self.url = 'https://my.engr.illinois.edu/labtrack/util_data_json.asp'
 
-    def get_all_labs(self):
+    def get_labs(self):
         return self._load_data()['data']
 
     def _load_data(self):
