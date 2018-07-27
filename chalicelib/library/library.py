@@ -17,7 +17,7 @@ class Library():
             return None
 
     def search_library(self, library_id, y, m, d):
-        request_url = self.url_search + str(library_id) + "/" + y + "/" + m + "/" + d
+        request_url = self.url_search + str(library_id) + "/" + str(y) + "/" + str(m) + "/" + str(d)
         response_json = urlopen(request_url)
         try:
             response = json.load(response_json)

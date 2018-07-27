@@ -49,12 +49,12 @@ def get_sport(sport):
 def get_dining_today(hall):
     return dining.Dining().get_menu_today(hall)
 
-@app.route('/dining/{hall}/{date}', methods=['GET'])
-def get_dining_date(hall, date):
-    return dining.Dining().get_menu_date(hall, date, date)
+@app.route('/dining/{hall}/{date_from}', methods=['GET'])
+def get_dining_date(hall, date_from):
+    return dining.Dining().get_menu_date(hall, date_from, date_from)
 
 @app.route('/dining/{hall}/{date_from}/{date_to}', methods=['GET'])
-def get_dining_date(hall, date_from, date_to):
+def get_dining_date_range(hall, date_from, date_to):
     return dining.Dining().get_menu_date(hall, date_from, date_to)
 
 
@@ -63,6 +63,6 @@ def get_dining_date(hall, date_from, date_to):
 def get_all_library():
     return library.Library().get_all()
 
-@app.route('/library/{id}/{y}/{m}/{d}', methods=['GET'])
+@app.route('/library/{library_id}/{y}/{m}/{d}', methods=['GET'])
 def search_library(library_id, y, m, d):
     return library.Library().search(library_id, y, m, d)

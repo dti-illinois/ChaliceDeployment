@@ -14,8 +14,8 @@
     {
       "name": "rest_api",
       "resource_type": "rest_api",
-      "rest_api_id": "km1k4bt2ul",
-      "rest_api_url": "https://km1k4bt2ul.execute-api.us-west-2.amazonaws.com/api/"
+      "rest_api_id": "lyogz55hd1",
+      "rest_api_url": "https://lyogz55hd1.execute-api.us-west-2.amazonaws.com/api/"
     }
   ],
   "schema_version": "2.0",
