@@ -5,6 +5,8 @@ from chalicelib.ics import ics
 from chalicelib.dining import dining
 from chalicelib.library import library
 from chalicelib.athletic import athletic
+from chalicelib.daily import daily
+from chalicelib.building import buildings
 
 app = Chalice(app_name='UIUC-API')
 
@@ -66,3 +68,25 @@ def get_all_library():
 @app.route('/library/{library_id}/{y}/{m}/{d}', methods=['GET'])
 def search_library(library_id, y, m, d):
     return library.Library().search(library_id, y, m, d)
+
+
+#daily news router
+@app.route('/dailynews', methods=['GET'])
+def get_all_news():
+    return daily.DailyIlliniScraper().get_recent_news()
+
+@app.route('dailynews/{n}', methods=['GET'])
+def get_n_news(n):
+    return daily.DailyIlliniScraper().get_recent_news()[0:n]
+
+
+#builidng router
+@app.route('/buildings', methods=['GET'])
+def get_all_buildings():
+    return buildings.BuildingInfo().get_all_buildings()
+
+@app.route('/buildings/{building_num}', methods=['GET'])
+def get_building_by_num(building_num):
+    return buildings.BuildingInfo().search_by_building_num(int(building_num))
+
+print(get_building_by_num(281))
