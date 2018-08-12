@@ -1,0 +1,2494 @@
+[
+    [
+        {
+            "BLDG_NUM": 377,
+            "BLDG_TYPE": "E",
+            "BUILDING_NAME": "ACES LIBRARY",
+            "FULL_ADDR": "1101 S GOODWIN, URBANA, IL",
+            "FULL_NAME": "ACES LIBRARY, INFO. & ALUMNI CENTER",
+            "LAT": "40.1028279",
+            "LONG": "-88.2251215",
+            "MON-FRI": "",
+            "SATURDAY": "",
+            "STREET_ADDR": "1101 S GOODWIN",
+            "SUNDAY": " "
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 281,
+            "BLDG_TYPE": "D",
+            "BUILDING_NAME": "ADMIN INFO TECHNOLOGY BLDG",
+            "FULL_ADDR": "50 E. GERTY, CHAMPAIGN, IL",
+            "FULL_NAME": "ADMIN INFORMATION TECHNOLOGY BLDG",
+            "LAT": "40.087134",
+            "LONG": "-88.241447",
+            "MON-FRI": "DEPT",
+            "SATURDAY": "DEPT",
+            "STREET_ADDR": "50 E. GERTY",
+            "SUNDAY": "DEPT"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 17,
+            "BLDG_TYPE": "E",
+            "BUILDING_NAME": "ADV COMPUTATION",
+            "FULL_ADDR": "1011 W. SPRINGFIELD Ave, URBANA, IL",
+            "FULL_NAME": "ADVANCED COMPUTATION BLDG",
+            "LAT": "40.1127746",
+            "LONG": "-88.2221532",
+            "MON-FRI": "8AM-5PM ",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "1011 W. SPRINGFIELD Ave",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 28,
+            "BLDG_TYPE": "D",
+            "BUILDING_NAME": "AERO LAB A",
+            "FULL_ADDR": "101 S. GOODWIN, URBANA, IL",
+            "FULL_NAME": "AERONAUTICAL LABORATORY A",
+            "LAT": "40.1120308",
+            "LONG": "-88.2239507",
+            "MON-FRI": "DEPT",
+            "SATURDAY": "DEPT ",
+            "STREET_ADDR": "101 S. GOODWIN",
+            "SUNDAY": "DEPT"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 73,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "AGR BIOPROC LAB",
+            "FULL_ADDR": "1302 W. PENNSYLVANIA, URBANA, IL",
+            "FULL_NAME": "AGRICULTURAL BIOPROCESS LAB",
+            "LAT": "40.1005807",
+            "LONG": "-88.2266816",
+            "MON-FRI": "7AM-6PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "1302 W. PENNSYLVANIA",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 8,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "AGR ENGR SCI BLDG",
+            "FULL_ADDR": "1304 W. PENNSYLVANIA, URBANA, IL",
+            "FULL_NAME": "AGRICULTURAL ENGR SCIENCES BLDG",
+            "LAT": "40.1005794",
+            "LONG": "-88.2267831",
+            "MON-FRI": "7AM-5:30PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "1304 W. PENNSYLVANIA",
+            "SUNDAY": "LOCKED"
+        },
+        {
+            "BLDG_NUM": "",
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "NORTH & SOUTH DOORS",
+            "MON-FRI": "7AM-10PM (5PM F)",
+            "SATURDAY": "1PM-5PM",
+            "SUNDAY": "1PM-10PM"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 326,
+            "BLDG_TYPE": "D",
+            "BUILDING_NAME": "AGR SERV BUILDING",
+            "FULL_ADDR": "1917 S. WRIGHT, CHAMPAIGN, IL",
+            "FULL_NAME": "AGRICULTURE SERVICES BUILDING",
+            "LAT": "40.0929116",
+            "LONG": "-88.2285969",
+            "MON-FRI": "DEPT",
+            "SATURDAY": "DEPT",
+            "STREET_ADDR": "1917 S. WRIGHT",
+            "SUNDAY": "DEPT"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 26,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "ALTGELD HALL",
+            "FULL_ADDR": "1409 W. GREEN, URBANA, IL",
+            "FULL_NAME": "ALTGELD HALL",
+            "LAT": "40.1093349",
+            "LONG": "-88.2283586",
+            "MON-FRI": "7AM-5:30PM",
+            "SATURDAY": "1PM-4PM",
+            "STREET_ADDR": "1409 W. GREEN",
+            "SUNDAY": "1PM-5PM"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 165,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "ANIMAL SCIENCES LAB (includes Loading Dock)",
+            "FULL_ADDR": "1207 W. GREGORY, URBANA, IL",
+            "FULL_NAME": "ANIMAL SCIENCES LABORATORY",
+            "LAT": "40.1040174",
+            "LONG": "-88.2247062",
+            "MON-FRI": "7AM-9PM (6PM F)",
+            "SATURDAY": "7AM-12N",
+            "STREET_ADDR": "1207 W. GREGORY",
+            "SUNDAY": "LOCKED"
+        },
+        {
+            "BLDG_NUM": "",
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "W BASEMENT DOOR",
+            "MON-FRI": "7AM-6PM",
+            "SATURDAY": "7AM-12N",
+            "SUNDAY": "LOCKED"
+        },
+        {
+            "BLDG_NUM": "",
+            "BLDG_TYPE": "D",
+            "BUILDING_NAME": "ARC",
+            "MON-FRI": "",
+            "SATURDAY": "",
+            "SUNDAY": ""
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 50,
+            "BLDG_TYPE": "B",
+            "BUILDING_NAME": "ARCHITECTURE BLDG",
+            "FULL_ADDR": "608 E. LORADO TAFT, CHAMPAIGN, IL",
+            "FULL_NAME": "ARCHITECTURE BUILDING",
+            "LAT": "40.1029552",
+            "LONG": "-88.2302207",
+            "MON-FRI": "6:30AM-10PM (5PM F)",
+            "SATURDAY": "6:30AM-5PM",
+            "STREET_ADDR": "608 E. LORADO TAFT",
+            "SUNDAY": "6:30AM-10PM"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 6,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "ARMORY",
+            "FULL_ADDR": "505 E. ARMORY, CHAMPAIGN, IL",
+            "FULL_NAME": "ARMORY",
+            "LAT": "40.1047515",
+            "LONG": "-88.2319563",
+            "MON-FRI": "5AM-9 PM",
+            "SATURDAY": "7AM-9PM",
+            "STREET_ADDR": "505 E. ARMORY",
+            "SUNDAY": "7AM-9PM"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 219,
+            "BLDG_TYPE": "B",
+            "BUILDING_NAME": "ART & DESIGN BLDG (Lounge by Dept)",
+            "FULL_ADDR": "408 E. PEABODY, CHAMPAIGN, IL",
+            "FULL_NAME": "ART AND DESIGN BUILDING",
+            "LAT": "40.1018216",
+            "LONG": "-88.2327505",
+            "MON-FRI": "7AM-5:30PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "408 E. PEABODY",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 18,
+            "BLDG_TYPE": "B",
+            "BUILDING_NAME": "ART - EAST ANNEX STUDIO 1 (ALL DRS)",
+            "FULL_ADDR": "1208 PEABODY DR., URBANA, IL",
+            "FULL_NAME": "ARCHITECTURE ANNEX",
+            "LAT": "40.1015222",
+            "LONG": "-88.2231396",
+            "MON-FRI": "7AM-10PM ",
+            "SATURDAY": "7AM-5PM",
+            "STREET_ADDR": "1208 PEABODY DR.",
+            "SUNDAY": "7AM-5PM"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 2,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "ART - EAST ANNEX STUDIO 2",
+            "FULL_ADDR": "1301 S. GOODWIN, URBANA, IL",
+            "FULL_NAME": "COLLEGE OF FINE AND APPLIED ARTS PERFORMING ARTS ANNEX",
+            "LAT": "40.1020234",
+            "LONG": "-88.2246959",
+            "MON-FRI": "LOCKED",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "1301 S. GOODWIN",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 328,
+            "BLDG_TYPE": "D",
+            "BUILDING_NAME": "ART STUDIO",
+            "FULL_ADDR": "2128 GRIFFITH DR., CHAMPAIGN, IL",
+            "FULL_NAME": "SOUTH STUDIO 1 (ART STUDIO)",
+            "LAT": "40.087985",
+            "LONG": "-88.2425771",
+            "MON-FRI": "DEPT",
+            "SATURDAY": "DEPT",
+            "STREET_ADDR": "2128 GRIFFITH DR.",
+            "SUNDAY": "DEPT"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 300,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "ASTRONOMY BLDG",
+            "FULL_ADDR": "1002 W. GREEN, URBANA, IL",
+            "FULL_NAME": "ASTRONOMY BUILDING",
+            "LAT": "40.1108738",
+            "LONG": "-88.2208955",
+            "MON-FRI": "8AM-5PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "1002 W. GREEN",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 208,
+            "BLDG_TYPE": "B",
+            "BUILDING_NAME": "ATMOSPHERIC SCIENCES BLDG",
+            "FULL_ADDR": "105 S. GREGORY STREET, URBANA, IL",
+            "FULL_NAME": "ATMOSPHERIC SCIENCES BUILDING",
+            "LAT": "40.112736",
+            "LONG": "-88.2206723",
+            "MON-FRI": "DEPT",
+            "SATURDAY": "DEPT",
+            "STREET_ADDR": "105 S. GREGORY STREET",
+            "SUNDAY": "DEPT"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 158,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "BEVIER HALL",
+            "FULL_ADDR": "905 W. GOODWIN, URBANA, IL",
+            "FULL_NAME": "BEVIER HALL",
+            "LAT": "40.104724",
+            "LONG": "-88.2241965",
+            "MON-FRI": "7AM-10PM (6PM F)",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "905 W. GOODWIN",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 307,
+            "BLDG_TYPE": "D",
+            "BUILDING_NAME": "BIOLOGICAL CNTL LAB",
+            "FULL_ADDR": "1904 S. GRIFFITH DR., CHAMPAIGN, IL",
+            "FULL_NAME": "BIOLOGICAL CONTROL LABORATORY",
+            "LAT": "40.092361",
+            "LONG": "-88.2432075",
+            "MON-FRI": "DEPT",
+            "SATURDAY": "DEPT",
+            "STREET_ADDR": "1904 S. GRIFFITH DR.",
+            "SUNDAY": "DEPT"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 169,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "BURNSIDES RES LAB",
+            "FULL_ADDR": "1208 W. PENNSYLVANIA, URBANA, IL",
+            "FULL_NAME": "BURNSIDES RESEARCH LABORATORY",
+            "LAT": "40.1005985",
+            "LONG": "-88.2244402",
+            "MON-FRI": "7AM-5PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "1208 W. PENNSYLVANIA",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 138,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "BURRILL HALL (MAIN ENTRANCE)",
+            "FULL_ADDR": "407 S. GOODWIN, URBANA, IL",
+            "FULL_NAME": "BURRILL HALL",
+            "LAT": "40.1092674",
+            "LONG": "-88.2248786",
+            "MON-FRI": "7AM-10PM (6PM F)",
+            "SATURDAY": "7AM-6PM",
+            "STREET_ADDR": "407 S. GOODWIN",
+            "SUNDAY": "12N-10PM"
+        },
+        {
+            "BLDG_NUM": "",
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "OTHER DOORS",
+            "MON-FRI": "7AM-6PM",
+            "SATURDAY": "LOCKED",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 1206,
+            "BLDG_TYPE": "E",
+            "BUILDING_NAME": "BUSINESS INSTRUCTIONAL FAC (5/14-6/17)",
+            "FULL_ADDR": "515 GREGORY DRIVE, CHAMPAIGN, IL",
+            "FULL_NAME": "BUSINESS INSTRUCTIONAL FACILITY",
+            "LAT": "40.1033497",
+            "LONG": "-88.231281",
+            "MON-FRI": "7AM-8PM (9P MW, 6P F)",
+            "SATURDAY": "7AM-6PM",
+            "STREET_ADDR": "515 GREGORY DRIVE",
+            "SUNDAY": "10AM-8PM"
+        },
+        {
+            "BLDG_NUM": "",
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "BUSINESS INSTRUCTIONAL FAC (6/18-8/24)",
+            "MON-FRI": "7AM-8PM (6PM F)",
+            "SATURDAY": "7AM-6PM",
+            "SUNDAY": "10AM-8PM"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 94,
+            "BLDG_TYPE": "B",
+            "BUILDING_NAME": "CAMPBELL ALUMNI CENTER (E, N, W DRS)",
+            "FULL_ADDR": "601 S LINCOLN, URBANA, IL",
+            "FULL_NAME": "ALICE CAMPBELL ALUMNI CENTER",
+            "LAT": "40.1079833",
+            "LONG": "-88.2198733",
+            "MON-FRI": "8:30AM-5PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "601 S LINCOLN",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 55,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "CERAMICS BLDG (EXCEPT NW BSMT DR)",
+            "FULL_ADDR": "105 S. GOODWIN, URBANA, IL",
+            "FULL_NAME": "CERAMICS BUILDING",
+            "LAT": "40.1115409",
+            "LONG": "-88.224247",
+            "MON-FRI": "7AM-10PM",
+            "SATURDAY": "7AM-10PM ",
+            "STREET_ADDR": "105 S. GOODWIN",
+            "SUNDAY": "7AM-10PM"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 11,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "CERAMICS KILN HOUSE (ALL DRS)",
+            "FULL_ADDR": "107 S. GOODWIN, URBANA, IL",
+            "FULL_NAME": "CERAMICS KILN HOUSE",
+            "LAT": "40.1116241",
+            "LONG": "-88.2248637",
+            "MON-FRI": "7AM-5PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "107 S. GOODWIN",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 10,
+            "BLDG_TYPE": "B",
+            "BUILDING_NAME": "CHEMISTRY ANNEX (inc. Tunnel)",
+            "FULL_ADDR": "601 S. MATHEWS, URBANA, IL",
+            "FULL_NAME": "CHEMISTRY ANNEX",
+            "LAT": "40.1081761",
+            "LONG": "-88.2255393",
+            "MON-FRI": "7:15AM-5:30PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "601 S. MATHEWS",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 70,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "CHEM & LIFE SCIENCE LAB (A, B & C)",
+            "FULL_ADDR": "601 S. GOODWIN, URBANA, IL",
+            "FULL_NAME": "CHEMICAL & LIFE SCIENCES LABORATORY",
+            "LAT": "40.1085386",
+            "LONG": "-88.2238901",
+            "MON-FRI": "7AM-6PM",
+            "SATURDAY": "LOCKED ",
+            "STREET_ADDR": "601 S. GOODWIN",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 62,
+            "BLDG_TYPE": "E",
+            "BUILDING_NAME": "CHILD DEVELOPMENT LAB",
+            "FULL_ADDR": "1105 W. NEVADA, URBANA, IL",
+            "FULL_NAME": "CHILD DEVELOPMENT LABORATORY",
+            "LAT": "40.1056347",
+            "LONG": "-88.2219233",
+            "MON-FRI": "7AM-6PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "1105 W. NEVADA",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 75,
+            "BLDG_TYPE": "E",
+            "BUILDING_NAME": "CHILDREN'S RES CENTER",
+            "FULL_ADDR": "51 E. GERTY, CHAMPAIGN, IL",
+            "FULL_NAME": "CHILDREN'S RESEARCH CENTER",
+            "LAT": "40.0870846",
+            "LONG": "-88.2408158",
+            "MON-FRI": "7AM-5PM",
+            "SATURDAY": "10AM-2PM",
+            "STREET_ADDR": "51 E. GERTY",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 1133,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "CHRISTOPHER HALL",
+            "FULL_ADDR": "904 WEST NEVADA STREET, URBANA, IL",
+            "FULL_NAME": "CHRISTOPHER HALL",
+            "LAT": "40.1062896",
+            "LONG": "-88.2195943",
+            "MON-FRI": "7AM-10PM (6PM F)",
+            "SATURDAY": "8AM-3PM",
+            "STREET_ADDR": "904 WEST NEVADA STREET",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 152,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "C E HYDROSYSTEMS LAB",
+            "FULL_ADDR": "205 N. MATHEWS, URBANA, IL",
+            "FULL_NAME": "CIVIL ENGINEERING HYDROSYSTEMS LAB",
+            "LAT": "40.1143679",
+            "LONG": "-88.2260782",
+            "MON-FRI": "7AM-5:00PM",
+            "SATURDAY": "DEPT",
+            "STREET_ADDR": "205 N. MATHEWS",
+            "SUNDAY": "DEPT"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 130,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "COBLE HALL",
+            "FULL_ADDR": "801 S. WRIGHT, CHAMPAIGN, IL",
+            "FULL_NAME": "COBLE HALL",
+            "LAT": "40.108683",
+            "LONG": "-88.2289445",
+            "MON-FRI": "DEPT-5PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "801 S. WRIGHT",
+            "SUNDAY": "LOCKED"
+        },
+        {
+            "BLDG_NUM": "",
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "NORTH & SOUTH DOORS",
+            "MON-FRI": "7AM-5PM",
+            "SATURDAY": "LOCKED",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 108,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "COMPUTING APPLIC BLDG",
+            "FULL_ADDR": "605 E. SPRINGFIELD, CHAMPAIGN, IL",
+            "FULL_NAME": "COMPUTING APPLICATIONS BUILDING",
+            "LAT": "40.1127035",
+            "LONG": "-88.2298826",
+            "MON-FRI": "8AM-8PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "605 E. SPRINGFIELD",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 148,
+            "BLDG_TYPE": "E",
+            "BUILDING_NAME": "COORDINATED SCIENCE LAB",
+            "FULL_ADDR": "1308 W. MAIN ST., URBANA, IL",
+            "FULL_NAME": "COORDINATED SCIENCE LABORATORY",
+            "LAT": "40.1149239",
+            "LONG": "-88.2267461",
+            "MON-FRI": "7AM-5:30PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "1308 W. MAIN ST.",
+            "SUNDAY": "LOCKED"
+        },
+        {
+            "BLDG_NUM": "",
+            "BLDG_TYPE": "D",
+            "BUILDING_NAME": "CRCE (CAMPUS REC CENTER EAST)",
+            "MON-FRI": "",
+            "SATURDAY": "",
+            "SUNDAY": ""
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 268,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "DANCE STUDIO",
+            "FULL_ADDR": "905 W. NEVADA, URBANA, IL",
+            "FULL_NAME": "DANCE STUDIO",
+            "LAT": "40.1059786",
+            "LONG": "-88.2206215",
+            "MON-FRI": "LOCKED",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "905 W. NEVADA",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 1,
+            "BLDG_TYPE": "B",
+            "BUILDING_NAME": "DAVENPORT HALL",
+            "FULL_ADDR": "607 S. MATHEWS, URBANA, IL",
+            "FULL_NAME": "DAVENPORT HALL",
+            "LAT": "40.107192",
+            "LONG": "-88.2260299",
+            "MON-FRI": "7AM-6PM ",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "607 S. MATHEWS",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 210,
+            "BLDG_TYPE": "B",
+            "BUILDING_NAME": "D C L - DIGITAL COMPUTER LAB",
+            "FULL_ADDR": "1304 W. SPRINGFIELD, URBANA, IL",
+            "FULL_NAME": "DIGITAL COMPUTER LABORATORY",
+            "LAT": "40.1131463",
+            "LONG": "-88.2264517",
+            "MON-FRI": "6:45AM-8:30PM",
+            "SATURDAY": "10AM-5:30PM",
+            "STREET_ADDR": "1304 W. SPRINGFIELD",
+            "SUNDAY": "LOCKED"
+        },
+        {
+            "BLDG_NUM": "",
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "DOCK DOORS",
+            "MON-FRI": "6:45AM-5:30PM",
+            "SATURDAY": "LOCKED",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 54,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "D K H - DAVID KINLEY HALL",
+            "FULL_ADDR": "1407 W. GREGORY, URBANA, IL",
+            "FULL_NAME": "DAVID KINLEY HALL",
+            "LAT": "40.1038176",
+            "LONG": "-88.2283623",
+            "MON-FRI": "7AM-12M (11PM F)",
+            "SATURDAY": "7AM-6PM",
+            "STREET_ADDR": "1407 W. GREGORY",
+            "SUNDAY": "9:30AM-12M"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 31,
+            "BLDG_TYPE": "D",
+            "BUILDING_NAME": "DYNA TEST LAB",
+            "MON-FRI": "DEPT",
+            "SATURDAY": "DEPT",
+            "SUNDAY": "DEPT"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 1071,
+            "BLDG_TYPE": "E",
+            "BUILDING_NAME": "EARLY CHILD DEVELOPMENT LAB",
+            "FULL_ADDR": "1005 W. NEVADA, URBANA, IL",
+            "FULL_NAME": "EARLY CHILD DEVELOPMENT LAB",
+            "LAT": "40.1059809",
+            "LONG": "-88.220184",
+            "MON-FRI": "7AM-6PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "1005 W. NEVADA",
+            "SUNDAY": "LOCKED"
+        },
+        {
+            "BLDG_NUM": "",
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "",
+            "MON-FRI": "",
+            "SATURDAY": "",
+            "SUNDAY": ""
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 160,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "EDUCATION BLDG",
+            "FULL_ADDR": "1310 S. SIXTH ST., CHAMPAIGN, IL",
+            "FULL_NAME": "EDUCATION BUILDING",
+            "LAT": "40.1019565",
+            "LONG": "-88.2296348",
+            "MON-FRI": "7AM-6PM",
+            "SATURDAY": "7:30AM-1PM",
+            "STREET_ADDR": "1310 S. SIXTH ST.",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 409,
+            "BLDG_TYPE": "E",
+            "BUILDING_NAME": "ELECTRICAL & COMPUTER ENG",
+            "FULL_ADDR": "306 N. WRIGHT ST., URBANA, IL",
+            "FULL_NAME": "ELECTRICAL AND COMPUTER ENGINEERING",
+            "LAT": "40.1150399",
+            "LONG": "-88.2281974",
+            "MON-FRI": "7AM-8PM",
+            "SATURDAY": "8AM-5PM",
+            "STREET_ADDR": "306 N. WRIGHT ST.",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 15,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "ENGINEERING HALL (ALL DOORS)",
+            "FULL_ADDR": "1308 W. GREEN, URBANA, IL",
+            "FULL_NAME": "ENGINEERING HALL",
+            "LAT": "40.1108517",
+            "LONG": "-88.226974",
+            "MON-FRI": "7AM-6PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "1308 W. GREEN",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 174,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "ENGINEERING SCI BLDG",
+            "FULL_ADDR": "1101 W. SPRINGFIELD, URBANA, IL",
+            "FULL_NAME": "ENGINEERING SCIENCES BUILDING",
+            "LAT": "40.1126336",
+            "LONG": "-88.2227865",
+            "MON-FRI": "7AM-5PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "1101 W. SPRINGFIELD",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 44,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "ENGLISH BUILDING (ALL DOORS)",
+            "FULL_ADDR": "608 S. WRIGHT, URBANA, IL",
+            "FULL_NAME": "ENGLISH BUILDING",
+            "LAT": "40.107588",
+            "LONG": "-88.2282468",
+            "MON-FRI": "7AM-6PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "608 S. WRIGHT",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 187,
+            "BLDG_TYPE": "D",
+            "BUILDING_NAME": "ENTOMOLOGY FIELD LAB",
+            "FULL_ADDR": "1902 S. GRIFFITH DR., CHAMPAIGN, IL",
+            "FULL_NAME": "ENTOMOLOGY LABORATORY",
+            "LAT": "40.0924855",
+            "LONG": "-88.242681",
+            "MON-FRI": "DEPT",
+            "SATURDAY": "DEPT",
+            "STREET_ADDR": "1902 S. GRIFFITH DR.",
+            "SUNDAY": "DEPT"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 213,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "ENV HEALTH & SAFETY BLDG",
+            "FULL_ADDR": "101 S. GREGORY AVE., URBANA, IL",
+            "FULL_NAME": "ENVIRON HEALTH & SAFETY BLDG",
+            "LAT": "40.1127812",
+            "LONG": "-88.2206734",
+            "MON-FRI": "LOCKED",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "101 S. GREGORY AVE.",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 107,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "ENV RESEARCH ANNEX",
+            "MON-FRI": "DEPT ",
+            "SATURDAY": "DEPT",
+            "SUNDAY": "DEPT"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 37,
+            "BLDG_TYPE": "E",
+            "BUILDING_NAME": "EVERITT LAB",
+            "FULL_ADDR": "1406 W. GREEN, URBANA, IL",
+            "FULL_NAME": "EVERITT ELEC & COMP ENGR LAB",
+            "LAT": "40.1103895",
+            "LONG": "-88.2277388",
+            "MON-FRI": "7AM-5:30PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "1406 W. GREEN",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 294,
+            "BLDG_TYPE": "D",
+            "BUILDING_NAME": "FIRE SERVICE INST CLSRM/OFFICE",
+            "FULL_ADDR": "11 GERTY DR., CHAMPAIGN, IL",
+            "FULL_NAME": "FSI - CLASSROOM/OFF",
+            "LAT": "40.0862706",
+            "LONG": "-88.2446934",
+            "MON-FRI": "7:30AM-5:30PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "11 GERTY DR.",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 89,
+            "BLDG_TYPE": "B",
+            "BUILDING_NAME": "FLAGG HALL",
+            "FULL_ADDR": "1207 S. FOURTH, CHAMPAIGN, IL",
+            "FULL_NAME": "FLAGG HALL",
+            "LAT": "40.1041029",
+            "LONG": "-88.2334244",
+            "MON-FRI": "7A-5:30PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "1207 S. FOURTH",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 7,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "FOELLINGER AUDITORIUM",
+            "FULL_ADDR": "709 S. MATHEWS, URBANA, IL",
+            "FULL_NAME": "FOELLINGER AUDITORIUM",
+            "LAT": "40.1059876",
+            "LONG": "-88.227196",
+            "MON-FRI": "OPEN FOR EVENTS AS NEEDED",
+            "SATURDAY": "",
+            "STREET_ADDR": "709 S. MATHEWS",
+            "SUNDAY": ""
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 172,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "FOREIGN LANGUAGES BLDG",
+            "FULL_ADDR": "707 S. MATHEWS, URBANA, IL",
+            "FULL_NAME": "FOREIGN LANGUAGES BUILDING",
+            "LAT": "40.1062812",
+            "LONG": "-88.2256758",
+            "MON-FRI": "7AM-6PM",
+            "SATURDAY": "12N-6PM",
+            "STREET_ADDR": "707 S. MATHEWS",
+            "SUNDAY": "12N-6PM"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 64,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "FREER HALL",
+            "FULL_ADDR": "906 S. GOODWIN, URBANA, IL",
+            "FULL_NAME": "FREER HALL",
+            "LAT": "40.1050018",
+            "LONG": "-88.2238265",
+            "MON-FRI": "7AM-6PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "906 S. GOODWIN",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 128,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "GEOLOGICAL SURVEY LAB",
+            "FULL_ADDR": "1116 S. OAK, CHAMPAIGN, IL",
+            "FULL_NAME": "GEOLOGICAL SURVEY LABORATORY",
+            "LAT": "40.1051453",
+            "LONG": "-88.2415229",
+            "MON-FRI": "7AM-6PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "1116 S. OAK",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 267,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "408 S GOODWIN",
+            "MON-FRI": "DEPT-5PM",
+            "SATURDAY": "LOCKED",
+            "SUNDAY": "LOCKED"
+        },
+        {
+            "BLDG_NUM": "",
+            "BLDG_TYPE": "D",
+            "BUILDING_NAME": "GRAINGER ENGINEERING LIBRARY",
+            "MON-FRI": "",
+            "SATURDAY": "",
+            "SUNDAY": ""
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 43,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "GREGORY HALL",
+            "FULL_ADDR": "810 S. WRIGHT, URBANA, IL",
+            "FULL_NAME": "GREGORY HALL",
+            "LAT": "40.1057779",
+            "LONG": "-88.2283902",
+            "MON-FRI": "7AM-6PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "810 S. WRIGHT",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 4,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "HARDING BAND BLDG",
+            "FULL_ADDR": "1103 S. SIXTH, CHAMPAIGN, IL",
+            "FULL_NAME": "HARDING BAND BUILDING",
+            "LAT": "40.1046237",
+            "LONG": "-88.2304534",
+            "MON-FRI": "7AM-10PM (5PM F)",
+            "SATURDAY": "7AM-12N",
+            "STREET_ADDR": "1103 S. SIXTH",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 25,
+            "BLDG_TYPE": "E",
+            "BUILDING_NAME": "HARKER HALL",
+            "FULL_ADDR": "1305 W. GREEN, URBANA, IL",
+            "FULL_NAME": "HARKER HALL",
+            "LAT": "40.108977",
+            "LONG": "-88.226668",
+            "MON-FRI": "7AM-6PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "1305 W. GREEN",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 46,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "HENRY ADMIN BUILDING",
+            "FULL_ADDR": "506 S. WRIGHT, URBANA, IL",
+            "FULL_NAME": "HENRY ADMINISTRATION BUILDING",
+            "LAT": "40.1083969",
+            "LONG": "-88.228276",
+            "MON-FRI": "7AM-5PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "506 S. WRIGHT",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 68,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "HORT FIELD LAB (N, S, W DOORS)",
+            "FULL_ADDR": "1707 S. ORCHARD, URBANA, IL",
+            "FULL_NAME": "HORTICULTURE FIELD LABORATORY",
+            "LAT": "40.0964981",
+            "LONG": "-88.2148106",
+            "MON-FRI": "7AM-5PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "1707 S. ORCHARD",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 217,
+            "BLDG_TYPE": "D",
+            "BUILDING_NAME": "HOUSING FOOD STORES",
+            "FULL_ADDR": "1321 S. OAK, CHAMPAIGN, IL",
+            "FULL_NAME": "HOUSING FOOD STORES",
+            "LAT": "40.1007403",
+            "LONG": "-88.2417414",
+            "MON-FRI": "DEPT",
+            "SATURDAY": "DEPT",
+            "STREET_ADDR": "1321 S. OAK",
+            "SUNDAY": "DEPT"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 58,
+            "BLDG_TYPE": "B",
+            "BUILDING_NAME": "HUFF HALL",
+            "FULL_ADDR": "1206 S. FOURTH, CHAMPAIGN, IL",
+            "FULL_NAME": "HUFF HALL",
+            "LAT": "40.1035395",
+            "LONG": "-88.2329358",
+            "MON-FRI": "7AM-10PM (6PM F)",
+            "SATURDAY": "10AM-6PM",
+            "STREET_ADDR": "1206 S. FOURTH",
+            "SUNDAY": "12N-10PM"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 1073,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "I BUILDING",
+            "FULL_ADDR": "1816 S. OAK STREET, CHAMPAIGN, IL",
+            "FULL_NAME": "FORBES NATURAL HISTORY BUILDING",
+            "LAT": "40.0928967",
+            "LONG": "-88.2399805",
+            "MON-FRI": "6:30AM-5:30PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "1816 S. OAK STREET",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 14,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "ICE ARENA",
+            "FULL_ADDR": "406 E. ARMORY, CHAMPAIGN, IL",
+            "FULL_NAME": "ICE ARENA",
+            "LAT": "40.1058636",
+            "LONG": "-88.2325143",
+            "MON-FRI": "",
+            "SATURDAY": "",
+            "STREET_ADDR": "406 E. ARMORY",
+            "SUNDAY": ""
+        },
+        {
+            "BLDG_NUM": "",
+            "BLDG_TYPE": "B",
+            "BUILDING_NAME": "IGB (INSTITUTE FOR GENOMIC BIOLOGY)",
+            "MON-FRI": "7AM-5:30PM",
+            "SATURDAY": "LOCKED",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 65,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "ILLINI HALL (ALL DOORS)",
+            "FULL_ADDR": "725 S. WRIGHT, CHAMPAIGN, IL",
+            "FULL_NAME": "ILLINI HALL",
+            "LAT": "40.1094621",
+            "LONG": "-88.2290929",
+            "MON-FRI": "7AM-6PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "725 S. WRIGHT",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 289,
+            "BLDG_TYPE": "D",
+            "BUILDING_NAME": "ILLINOIS STATE WATER SURVEY (ISWS)",
+            "MON-FRI": "DEPT ",
+            "SATURDAY": "DEPT",
+            "SUNDAY": "DEPT"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 369,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "INTERNATIONAL STUDIES BLDG",
+            "FULL_ADDR": "910 S. FIFTH ST., CHAMPAIGN, IL",
+            "FULL_NAME": "INTERNATIONAL STUDIES BUILDING",
+            "LAT": "40.1072392",
+            "LONG": "-88.2318771",
+            "MON-FRI": "7AM-5PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "910 S. FIFTH ST.",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 59,
+            "BLDG_TYPE": "E",
+            "BUILDING_NAME": "IRWIN DOCTORAL STUDY HALL",
+            "FULL_ADDR": "607 E. GREGORY, CHAMPAIGN, IL",
+            "FULL_NAME": "IRWIN CENTER FOR DOCTORAL STUDY IN BUSINESS",
+            "LAT": "40.1041548",
+            "LONG": "-88.2294338",
+            "MON-FRI": "7AM-5:30PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "607 E. GREGORY",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 52,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "KRANNERT CENTER PER ARTS",
+            "FULL_ADDR": "500 S. GOODWIN, URBANA, IL",
+            "FULL_NAME": "KRANNERT CENTER FOR PERFORMING ARTS",
+            "LAT": "40.108013",
+            "LONG": "-88.222747",
+            "MON-FRI": "7AM-6PM ",
+            "SATURDAY": "10AM-6PM",
+            "STREET_ADDR": "500 S. GOODWIN",
+            "SUNDAY": "10AM-6PM"
+        },
+        {
+            "BLDG_NUM": "",
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "ALSO OPEN LATER ON PERFORMANCE DAYS",
+            "MON-FRI": "",
+            "SATURDAY": "",
+            "SUNDAY": ""
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 220,
+            "BLDG_TYPE": "D",
+            "BUILDING_NAME": "KRANNERT ART MUSEUM (CLOSED MON)",
+            "FULL_ADDR": "500 E. PEABODY, CHAMPAIGN, IL",
+            "FULL_NAME": "KRANNERT ART MUSEUM",
+            "LAT": "40.101862",
+            "LONG": "-88.2317371",
+            "MON-FRI": "9AM-5PM (9AM-9PM TH)",
+            "SATURDAY": "9A-5PM",
+            "STREET_ADDR": "500 E. PEABODY",
+            "SUNDAY": "2P-5P"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 218,
+            "BLDG_TYPE": "B",
+            "BUILDING_NAME": "LABOR & INDUS RELATIONS INST",
+            "FULL_ADDR": "504 E. ARMORY, CHAMPAIGN, IL",
+            "FULL_NAME": "SCHOOL OF LABOR & EMPLOYMENT RELATIONS",
+            "LAT": "40.1056406",
+            "LONG": "-88.2315641",
+            "MON-FRI": "7AM-10PM (5PM F)",
+            "SATURDAY": "7AM-6PM",
+            "STREET_ADDR": "504 E. ARMORY",
+            "SUNDAY": "12N-10PM"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 156,
+            "BLDG_TYPE": "B",
+            "BUILDING_NAME": "LAW BUILDING",
+            "FULL_ADDR": "504 E. PENNSYLVANIA AVE., CHAMPAIGN, IL",
+            "FULL_NAME": "LAW BUILDING",
+            "LAT": "40.100781",
+            "LONG": "-88.231734",
+            "MON-FRI": "",
+            "SATURDAY": "",
+            "STREET_ADDR": "504 E. PENNSYLVANIA AVE.",
+            "SUNDAY": ""
+        },
+        {
+            "BLDG_NUM": "",
+            "BLDG_TYPE": "E",
+            "BUILDING_NAME": "Peabody and  6th Street Doors ",
+            "MON-FRI": "7AM-5PM",
+            "SATURDAY": "LOCKED",
+            "SUNDAY": "LOCKED"
+        },
+        {
+            "BLDG_NUM": "",
+            "BLDG_TYPE": "E",
+            "BUILDING_NAME": "Penn Avenue Main Entrance",
+            "MON-FRI": "DEPT",
+            "SATURDAY": "DEPT",
+            "SUNDAY": "DEPT"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 126,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "LEVIS CENTER",
+            "FULL_ADDR": "919 W. ILLINOIS, URBANA, IL",
+            "FULL_NAME": "LEVIS FACULTY CENTER",
+            "LAT": "40.108876",
+            "LONG": "-88.221288",
+            "MON-FRI": "7:45AM-5PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "919 W. ILLINOIS",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 41,
+            "BLDG_TYPE": "D",
+            "BUILDING_NAME": "LIBRARY www.library.illinois.edu",
+            "FULL_ADDR": "1408 W. GREGORY, URBANA, IL",
+            "FULL_NAME": "LIBRARY",
+            "LAT": "40.1047044",
+            "LONG": "-88.2290104",
+            "MON-FRI": "",
+            "SATURDAY": "",
+            "STREET_ADDR": "1408 W. GREGORY",
+            "SUNDAY": ""
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 99,
+            "BLDG_TYPE": "D",
+            "BUILDING_NAME": "LIBRARY UNDERGRAD www.library.illinois.edu",
+            "FULL_ADDR": "1402 W. GREGORY, URBANA, IL",
+            "FULL_NAME": "UNDERGRADUATE LIBRARY",
+            "LAT": "40.1047959",
+            "LONG": "-88.2272315",
+            "MON-FRI": "",
+            "SATURDAY": "",
+            "STREET_ADDR": "1402 W. GREGORY",
+            "SUNDAY": ""
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 331,
+            "BLDG_TYPE": "D",
+            "BUILDING_NAME": "LIBRARY & INFORMATION SCIENCE",
+            "FULL_ADDR": "501 E. DANIEL ST., CHAMPAIGN, IL",
+            "FULL_NAME": "LIBRARY AND INFORMATION SCIENCE BLDG",
+            "LAT": "40.1077795",
+            "LONG": "-88.2316213",
+            "MON-FRI": "DEPT",
+            "SATURDAY": "DEPT",
+            "STREET_ADDR": "501 E. DANIEL ST.",
+            "SUNDAY": "DEPT"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 27,
+            "BLDG_TYPE": "B",
+            "BUILDING_NAME": "LINCOLN HALL (all doors)",
+            "FULL_ADDR": "702 S. WRIGHT, URBANA, IL",
+            "FULL_NAME": "LINCOLN HALL",
+            "LAT": "40.106643",
+            "LONG": "-88.2283797",
+            "MON-FRI": "7AM-5:30PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "702 S. WRIGHT",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 67,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "LOOMIS LAB",
+            "FULL_ADDR": "1110 W. GREEN ST., URBANA, IL",
+            "FULL_NAME": "LOOMIS LABORATORY OF PHYSICS",
+            "LAT": "40.1107779",
+            "LONG": "-88.2232185",
+            "MON-FRI": "7AM-9PM (6PM F)",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "1110 W. GREEN ST.",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 336,
+            "BLDG_TYPE": "B",
+            "BUILDING_NAME": "MADIGAN LAB, EDWARD R.",
+            "FULL_ADDR": "1201 W. GREGORY DR., URBANA, IL",
+            "FULL_NAME": "MADIGAN LABORATORY, EDWARD R",
+            "LAT": "40.1041765",
+            "LONG": "-88.224695",
+            "MON-FRI": "8AM-5PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "1201 W. GREGORY DR.",
+            "SUNDAY": "LOCKED"
+        },
+        {
+            "BLDG_NUM": "",
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "NORTH DOCK DOOR",
+            "MON-FRI": "8AM-5PM",
+            "SATURDAY": "LOCKED",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 66,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "MAT RES LAB & S CORRIDOR DRS",
+            "FULL_ADDR": "104 S. GOODWIN, URBANA, IL",
+            "FULL_NAME": "SEITZ MATERIALS RESEARCH LAB",
+            "LAT": "40.1116732",
+            "LONG": "-88.2230775",
+            "MON-FRI": "7AM-5PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "104 S. GOODWIN",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 143,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "608 S MATHEWS",
+            "FULL_ADDR": "608 S. MATHEWS, URBANA, IL",
+            "FULL_NAME": "608 S MATHEWS, URBANA",
+            "LAT": "40.1071996",
+            "LONG": "-88.2251462",
+            "MON-FRI": "LOCKED",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "608 S. MATHEWS",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 173,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "708 S MATHEWS",
+            "FULL_ADDR": "708 S. MATHEWS, URBANA, IL",
+            "FULL_NAME": "AFRICAN AMERICAN CULTURE CENTER",
+            "LAT": "40.1063526",
+            "LONG": "-88.2254796",
+            "MON-FRI": "LOCKED",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "708 S. MATHEWS",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 171,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "MEAT SCIENCE LAB",
+            "FULL_ADDR": "1503 S. MARYLAND, URBANA, IL",
+            "FULL_NAME": "MEAT SCIENCE LABORATORY",
+            "LAT": "40.0996946",
+            "LONG": "-88.2228357",
+            "MON-FRI": "7AM-5:30PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "1503 S. MARYLAND",
+            "SUNDAY": "LOCKED"
+        },
+        {
+            "BLDG_NUM": "",
+            "BLDG_TYPE": "D",
+            "BUILDING_NAME": "MCKINLEY HEALTH CENTER",
+            "MON-FRI": "8AM-5:30PM",
+            "SATURDAY": "8AM-4:30PM",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 112,
+            "BLDG_TYPE": "B",
+            "BUILDING_NAME": "M E B - MECH ENGR BUILDING",
+            "FULL_ADDR": "1206 W. GREEN, URBANA, IL",
+            "FULL_NAME": "MECHANICAL ENGINEERING BUILDING",
+            "LAT": "40.1105373",
+            "LONG": "-88.2247958",
+            "MON-FRI": "7AM-5:30PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "1206 W. GREEN",
+            "SUNDAY": "LOCKED"
+        },
+        {
+            "BLDG_NUM": "",
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "South Door",
+            "MON-FRI": "7AM-9PM",
+            "SATURDAY": "LOCKED",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 29,
+            "BLDG_TYPE": "B",
+            "BUILDING_NAME": "MECH ENGR LAB (West Main Door)",
+            "FULL_ADDR": "105 S. MATHEWS, URBANA, IL",
+            "FULL_NAME": "MECHANICAL ENGINEERING LABORATORY",
+            "LAT": "40.1116671",
+            "LONG": "-88.2259866",
+            "MON-FRI": "7AM-12M (10PM F)",
+            "SATURDAY": "10AM-10PM",
+            "STREET_ADDR": "105 S. MATHEWS",
+            "SUNDAY": "10AM-12M"
+        },
+        {
+            "BLDG_NUM": "",
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "All other doors",
+            "MON-FRI": "7AM-5PM",
+            "SATURDAY": "LOCKED",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 192,
+            "BLDG_TYPE": "E",
+            "BUILDING_NAME": "MEDICAL SCIENCES BLDG",
+            "FULL_ADDR": "506 S. MATHEWS, URBANA, IL",
+            "FULL_NAME": "MEDICAL SCIENCES BUILDING",
+            "LAT": "40.1087733",
+            "LONG": "-88.2255572",
+            "MON-FRI": "7AM-5:30PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "506 S. MATHEWS",
+            "SUNDAY": "LOCKED"
+        },
+        {
+            "BLDG_NUM": "",
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "WEST DOOR",
+            "MON-FRI": "7AM-7PM",
+            "SATURDAY": "11AM-5PM",
+            "SUNDAY": "11AM-5PM"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 34,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "M S E B - MATERIALS SCI & ENG BLDG",
+            "FULL_ADDR": "1304 W. GREEN, URBANA, IL",
+            "FULL_NAME": "MATERIALS SCIENCE AND ENG BLDG",
+            "LAT": "40.1107574",
+            "LONG": "-88.2258743",
+            "MON-FRI": "7AM-10PM (5PM F)",
+            "SATURDAY": "7AM-12N",
+            "STREET_ADDR": "1304 W. GREEN",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 242,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "MORRILL HALL",
+            "FULL_ADDR": "505 S. GOODWIN, URBANA, IL",
+            "FULL_NAME": "MORRILL HALL",
+            "LAT": "40.1090021",
+            "LONG": "-88.2239041",
+            "MON-FRI": "7AM-7PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "505 S. GOODWIN",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 69,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "MUMFORD HALL",
+            "FULL_ADDR": "1301 W. GREGORY, URBANA, IL",
+            "FULL_NAME": "MUMFORD HALL",
+            "LAT": "40.103626",
+            "LONG": "-88.22599",
+            "MON-FRI": "7AM-5:30PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "1301 W. GREGORY",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 125,
+            "BLDG_TYPE": "D",
+            "BUILDING_NAME": "MUMFORD HOUSE",
+            "FULL_ADDR": "1403 W. LORADO TAFT, URBANA, IL",
+            "FULL_NAME": "MUMFORD HOUSE",
+            "LAT": "40.1029698",
+            "LONG": "-88.2289592",
+            "MON-FRI": "DEPT",
+            "SATURDAY": "DEPT",
+            "STREET_ADDR": "1403 W. LORADO TAFT",
+            "SUNDAY": "DEPT"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 39,
+            "BLDG_TYPE": " ",
+            "BUILDING_NAME": "MUSIC BLDG 1ST FL NORTH DOORS",
+            "FULL_ADDR": "1114 W. NEVADA, URBANA, IL",
+            "FULL_NAME": "MUSIC BUILDING",
+            "LAT": "40.1065954",
+            "LONG": "-88.2228678",
+            "MON-FRI": "7AM-9PM ",
+            "SATURDAY": "7AM-9PM ",
+            "STREET_ADDR": "1114 W. NEVADA",
+            "SUNDAY": "7AM-9PM "
+        },
+        {
+            "BLDG_NUM": "",
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "LOWER LEVEL NORTH DOORS",
+            "MON-FRI": "LOCKED",
+            "SATURDAY": "LOCKED",
+            "SUNDAY": "LOCKED"
+        },
+        {
+            "BLDG_NUM": "",
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "1ST FLOOR SOUTH DOORS",
+            "MON-FRI": "7AM-6PM",
+            "SATURDAY": "7AM-6PM",
+            "SUNDAY": "7AM-6PM"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 124,
+            "BLDG_TYPE": " ",
+            "BUILDING_NAME": "NATL SOYBEAN RES CTR (NSRC)",
+            "FULL_ADDR": "1101 W. PEABODY, URBANA, IL",
+            "FULL_NAME": "NATIONAL SOYBEAN RESEARCH CENTER",
+            "LAT": "40.1010646",
+            "LONG": "-88.2225715",
+            "MON-FRI": "7AM-6PM ",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "1101 W. PEABODY",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 32,
+            "BLDG_TYPE": "B",
+            "BUILDING_NAME": "NATURAL HISTORY BUILDING",
+            "FULL_ADDR": "1301 W. GREEN, URBANA, IL",
+            "FULL_NAME": "NATURAL HISTORY BUILDING",
+            "LAT": "40.1094734",
+            "LONG": "-88.226039",
+            "MON-FRI": "7AM-10PM (9P F)",
+            "SATURDAY": "7AM-5PM",
+            "STREET_ADDR": "1301 W. GREEN",
+            "SUNDAY": "12N-10PM"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 134,
+            "BLDG_TYPE": "D",
+            "BUILDING_NAME": "NATURAL HISTORY SURV GRNHSE",
+            "FULL_ADDR": "614 E. PENNSYLVANIA, CHAMPAIGN, IL",
+            "FULL_NAME": "NATURAL HISTORY SURVEY GREENHOUSE",
+            "LAT": "40.1005571",
+            "LONG": "-88.2298807",
+            "MON-FRI": "DEPT",
+            "SATURDAY": "DEPT",
+            "STREET_ADDR": "614 E. PENNSYLVANIA",
+            "SUNDAY": "DEPT"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 321,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "NATURAL RES STUDIES ANNEX",
+            "FULL_ADDR": "1910 GRIFFITH DR., CHAMPAIGN, IL",
+            "FULL_NAME": "NATURAL RESOURCE STUDIES ANNEX",
+            "LAT": "40.0918618",
+            "LONG": "-88.2422733",
+            "MON-FRI": "7AM-6PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "1910 GRIFFITH DR.",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 109,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "NATURAL RESOURCES BLDG",
+            "FULL_ADDR": "607 E. PEABODY, CHAMPAIGN, IL",
+            "FULL_NAME": "NATURAL RESOURCES BUILDING",
+            "LAT": "40.1012925",
+            "LONG": "-88.2298277",
+            "MON-FRI": "7AM-6PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "607 E. PEABODY",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 133,
+            "BLDG_TYPE": "D",
+            "BUILDING_NAME": "NATURAL RESOURCES GARAGE",
+            "FULL_ADDR": "608 E. PENNSYLVANIA, CHAMPAIGN, IL",
+            "FULL_NAME": "NATURAL RESOURCES GARAGE",
+            "LAT": "40.100836",
+            "LONG": "-88.2286152",
+            "MON-FRI": "DEPT",
+            "SATURDAY": "DEPT",
+            "STREET_ADDR": "608 E. PENNSYLVANIA",
+            "SUNDAY": "DEPT"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 199,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "1001 W NEVADA",
+            "FULL_ADDR": "1001 W. NEVADA, URBANA, IL",
+            "FULL_NAME": "1001 W NEVADA, URBANA",
+            "LAT": "40.1059623",
+            "LONG": "-88.2208916",
+            "MON-FRI": "LOCKED",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "1001 W. NEVADA",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 168,
+            "BLDG_TYPE": "D",
+            "BUILDING_NAME": "1005 W NEVADA",
+            "MON-FRI": "DEPT",
+            "SATURDAY": "DEPT",
+            "SUNDAY": "DEPT"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 195,
+            "BLDG_TYPE": "D",
+            "BUILDING_NAME": "1203 W NEVADA",
+            "FULL_ADDR": "1203 W. NEVADA, URBANA, IL",
+            "FULL_NAME": "1203 W NEVADA, URBANA",
+            "LAT": "40.1056762",
+            "LONG": "-88.2243562",
+            "MON-FRI": "DEPT",
+            "SATURDAY": "DEPT",
+            "STREET_ADDR": "1203 W. NEVADA",
+            "SUNDAY": "DEPT"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 146,
+            "BLDG_TYPE": "D",
+            "BUILDING_NAME": "1205 W NEVADA",
+            "FULL_ADDR": "1205 W. NEVADA, URBANA, IL",
+            "FULL_NAME": "1205 W NEVADA, URBANA",
+            "LAT": "40.1056774",
+            "LONG": "-88.224689",
+            "MON-FRI": "DEPT",
+            "SATURDAY": "DEPT",
+            "STREET_ADDR": "1205 W. NEVADA",
+            "SUNDAY": "DEPT"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 145,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "1205 1/2 W NEVADA",
+            "FULL_ADDR": "1205 1/2 W. NEVADA, URBANA, IL",
+            "FULL_NAME": "1205 1/2 W NEVADA, URBANA",
+            "LAT": "40.1055427",
+            "LONG": "-88.224705",
+            "MON-FRI": "7AM-7PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "1205 1/2 W. NEVADA",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 24,
+            "BLDG_TYPE": "E",
+            "BUILDING_NAME": "NEWMARK  CIVIL ENG BLDG ",
+            "FULL_ADDR": "205 N. MATHEWS, URBANA, IL",
+            "FULL_NAME": "NEWMARK CIVIL ENGINEERING BUILDING",
+            "LAT": "40.1143679",
+            "LONG": "-88.2260782",
+            "MON-FRI": "7AM-5:30PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "205 N. MATHEWS",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 90,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "NOBLE HALL",
+            "FULL_ADDR": "1209 S. FOURTH, CHAMPAIGN, IL",
+            "FULL_NAME": "NOBLE HALL",
+            "LAT": "40.1040956",
+            "LONG": "-88.2334241",
+            "MON-FRI": "7AM-5:30PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "1209 S. FOURTH",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 12,
+            "BLDG_TYPE": "B",
+            "BUILDING_NAME": "NOYES LAB",
+            "FULL_ADDR": "505 S. MATHEWS, URBANA, IL",
+            "FULL_NAME": "NOYES LABORATORY OF CHEMISTRY",
+            "LAT": "40.1084065",
+            "LONG": "-88.2259762",
+            "MON-FRI": "7AM-11PM (10PM F)",
+            "SATURDAY": "7AM-10PM",
+            "STREET_ADDR": "505 S. MATHEWS",
+            "SUNDAY": "1PM-11PM"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 117,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "NUCLEAR ENGINEERING LAB",
+            "FULL_ADDR": "103 S. GOODWIN, URBANA, IL",
+            "FULL_NAME": "NUCLEAR ENGINEERING LABORATORY",
+            "LAT": "40.1120308",
+            "LONG": "-88.2239507",
+            "MON-FRI": "7:30AM-5:30PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "103 S. GOODWIN",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 110,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "NUCLEAR PHYSIC LAB",
+            "FULL_ADDR": "25 E. STADIUM DR., CHAMPAIGN, IL",
+            "FULL_NAME": "NUCLEAR PHYSICS LABORATORY",
+            "LAT": "40.1027001",
+            "LONG": "-88.2417761",
+            "MON-FRI": "DEPT-5PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "25 E. STADIUM DR.",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 48,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "NUCLEAR RADIATIONS LAB",
+            "FULL_ADDR": "201 S. GOODWIN, URBANA, IL",
+            "FULL_NAME": "NUCLEAR RADIATION LABORATORY",
+            "LAT": "40.1109",
+            "LONG": "-88.2239319",
+            "MON-FRI": "8AM-5:30PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "201 S. GOODWIN",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 182,
+            "BLDG_TYPE": "D",
+            "BUILDING_NAME": "NUCLEAR REACTOR LAB",
+            "MON-FRI": "DEPT",
+            "SATURDAY": "DEPT",
+            "SUNDAY": "DEPT"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 33,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "OBSERVATORY",
+            "FULL_ADDR": "901 S. MATHEWS, URBANA, IL",
+            "FULL_NAME": "OBSERVATORY",
+            "LAT": "40.1056794",
+            "LONG": "-88.2254573",
+            "MON-FRI": "6AM-5PM",
+            "SATURDAY": "DEPT",
+            "STREET_ADDR": "901 S. MATHEWS",
+            "SUNDAY": "DEPT"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 506,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "909 W OREGON, MUS BLDG ANNEX (E, W Drs)",
+            "FULL_ADDR": "909 W. OREGON, URBANA, IL",
+            "FULL_NAME": "909 W OREGON, URBANA",
+            "LAT": "40.107005",
+            "LONG": "-88.2201461",
+            "MON-FRI": "DEPT-6PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "909 W. OREGON",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 238,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "1207 W OREGON",
+            "FULL_ADDR": "1207 W. OREGON, URBANA, IL",
+            "FULL_NAME": "1207 W OREGON, URBANA",
+            "LAT": "40.1066889",
+            "LONG": "-88.2248256",
+            "MON-FRI": "8AM-5PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "1207 W. OREGON",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 196,
+            "BLDG_TYPE": "E",
+            "BUILDING_NAME": "OPTICAL PHYSICS & ENGINEERING",
+            "FULL_ADDR": "607 E. HEALY, CHAMPAIGN, IL",
+            "FULL_NAME": "OPTICAL PHYSICS AND ENGINEERING BLDG",
+            "LAT": "40.1113897",
+            "LONG": "-88.229401",
+            "MON-FRI": "DEPT",
+            "SATURDAY": "DEPT",
+            "STREET_ADDR": "607 E. HEALY",
+            "SUNDAY": "DEPT"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 221,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "805 W PENNSYLVANIA AVENUE",
+            "FULL_ADDR": "805 W. PENNSYLVANIA, URBANA, IL",
+            "FULL_NAME": "805 W PENNSYLVANIA, URBANA",
+            "LAT": "40.1004118",
+            "LONG": "-88.2181227",
+            "MON-FRI": "8:30AM-5PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "805 W. PENNSYLVANIA",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 154,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "PERSONNEL SERVICES BLDG",
+            "FULL_ADDR": "52 E. GREGORY, CHAMPAIGN, IL",
+            "FULL_NAME": "PERSONNEL SERVICES BUILDING",
+            "LAT": "40.1040918",
+            "LONG": "-88.2387066",
+            "MON-FRI": "DEPT-5PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "52 E. GREGORY",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 198,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "P P S B - PHYSICAL PLANT SERV BLDG",
+            "FULL_ADDR": "1501 S. OAK, CHAMPAIGN, IL",
+            "FULL_NAME": "PHYSICAL PLANT SERVICE BUILDING",
+            "LAT": "40.0988658",
+            "LONG": "-88.2418265",
+            "MON-FRI": "7AM-5PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "1501 S. OAK",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 20,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "PHYSIOLOGY RESEARCH LAB",
+            "FULL_ADDR": "301 E. HAZELWOOD, CHAMPAIGN, IL",
+            "FULL_NAME": "PHYSIOLOGY RESEARCH LABORATORY",
+            "LAT": "40.090846",
+            "LONG": "-88.2331216",
+            "MON-FRI": "DEPT",
+            "SATURDAY": "DEPT",
+            "STREET_ADDR": "301 E. HAZELWOOD",
+            "SUNDAY": "DEPT"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 77,
+            "BLDG_TYPE": "D",
+            "BUILDING_NAME": "PLANT SERVICES BLDG-NE",
+            "FULL_ADDR": "1005 W. WESTERN, URBANA, IL",
+            "FULL_NAME": "PLANT SERVICES BUILDING-NORTHEAST",
+            "LAT": "40.1122205",
+            "LONG": "-88.2185687",
+            "MON-FRI": "DEPT",
+            "SATURDAY": "DEPT",
+            "STREET_ADDR": "1005 W. WESTERN",
+            "SUNDAY": "DEPT"
+        },
+        {
+            "BLDG_NUM": "",
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "",
+            "MON-FRI": "",
+            "SATURDAY": "",
+            "SUNDAY": ""
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 256,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "PLANT SCI LAB",
+            "FULL_ADDR": "1201 S. DORNER DRIVE, URBANA, IL",
+            "FULL_NAME": "PLANT SCIENCES LABORATORY",
+            "LAT": "40.1028458",
+            "LONG": "-88.2218363",
+            "MON-FRI": "7AM-6PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "1201 S. DORNER DRIVE",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 222,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "PRINTING & PHOTOGRAPHIC SVCS",
+            "FULL_ADDR": "54 E. GREGORY, CHAMPAIGN, IL",
+            "FULL_NAME": "PRINTING & PHOTOGRAPHIC SERV BLDG",
+            "LAT": "40.1042413",
+            "LONG": "-88.2398931",
+            "MON-FRI": "",
+            "SATURDAY": "",
+            "STREET_ADDR": "54 E. GREGORY",
+            "SUNDAY": ""
+        },
+        {
+            "BLDG_NUM": "",
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "   NORTH & WEST side of Breezeway",
+            "MON-FRI": "7AM-5PM",
+            "SATURDAY": "LOCKED",
+            "SUNDAY": "LOCKED"
+        },
+        {
+            "BLDG_NUM": "",
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "   NORTH DOORS facing loading dock",
+            "MON-FRI": "LOCKED",
+            "SATURDAY": "LOCKED",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 144,
+            "BLDG_TYPE": "D",
+            "BUILDING_NAME": "PRINTING SERVICES SOUTH",
+            "FULL_ADDR": "1805 S. WRIGHT STREET, CHAMPAIGN, IL",
+            "FULL_NAME": "DALKEY ARCHIVE PRESS (PSSB)",
+            "LAT": "40.0933141",
+            "LONG": "-88.2291669",
+            "MON-FRI": "DEPT",
+            "SATURDAY": "DEPT",
+            "STREET_ADDR": "1805 S. WRIGHT STREET",
+            "SUNDAY": "DEPT"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 76,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "PSYCHOLOGY BLDG (INCL. ADA DOOR)",
+            "FULL_ADDR": "603 E. DANIEL, CHAMPAIGN, IL",
+            "FULL_NAME": "PSYCHOLOGY LABORATORY",
+            "LAT": "40.1076581",
+            "LONG": "-88.2299484",
+            "MON-FRI": "7AM-8PM (5PM F)",
+            "SATURDAY": "7AM-5PM",
+            "STREET_ADDR": "603 E. DANIEL",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 116,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "R A L - ROGER ADAMS LAB",
+            "FULL_ADDR": "600 S. MATHEWS, URBANA, IL",
+            "FULL_NAME": "ROGER ADAMS LABORATORY",
+            "LAT": "40.1078402",
+            "LONG": "-88.2247521",
+            "MON-FRI": "7AM-6PM",
+            "SATURDAY": "7AM-6PM",
+            "STREET_ADDR": "600 S. MATHEWS",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 122,
+            "BLDG_TYPE": "D",
+            "BUILDING_NAME": "RADIO TRANS STA",
+            "FULL_ADDR": "2520 S. FIRST ST. RD., CHAMPAIGN, IL",
+            "FULL_NAME": "RADIO TRANSMITTER STATION",
+            "LAT": "40.0832391",
+            "LONG": "-88.2383907",
+            "MON-FRI": "DEPT",
+            "SATURDAY": "DEPT",
+            "STREET_ADDR": "2520 S. FIRST ST. RD.",
+            "SUNDAY": "DEPT"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 176,
+            "BLDG_TYPE": "B",
+            "BUILDING_NAME": "REHABILITATION CENTER",
+            "FULL_ADDR": "1207 S. OAK, CHAMPAIGN, IL",
+            "FULL_NAME": "REHABILITATION EDUCATION CENTER",
+            "LAT": "40.1034809",
+            "LONG": "-88.2415048",
+            "MON-FRI": "7:30AM-5PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "1207 S. OAK",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 1268,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "ROBERT EVERS LAB",
+            "FULL_ADDR": "1909  S. OAK STREET, CHAMPAIGN, IL",
+            "FULL_NAME": "ROBERT A. EVERS LABORATORY",
+            "LAT": "40.0914201",
+            "LONG": "-88.240932",
+            "MON-FRI": "7AM-6PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "1909  S. OAK STREET",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 243,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "508 S SIXTH STREET",
+            "FULL_ADDR": "508 S. SIXTH, CHAMPAIGN, IL",
+            "FULL_NAME": "508 S SIXTH, CHAMPAIGN",
+            "LAT": "40.1119907",
+            "LONG": "-88.2300917",
+            "MON-FRI": "8AM-5PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "508 S. SIXTH",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 565,
+            "BLDG_TYPE": "D",
+            "BUILDING_NAME": "SIEBEL CENTER FOR COMPUTER SCIENCE",
+            "FULL_ADDR": "611 W. PARK, URBANA, IL",
+            "FULL_NAME": "CARLE FORUM",
+            "LAT": "40.1169199",
+            "LONG": "-88.2148252",
+            "MON-FRI": "7AM-6PM",
+            "SATURDAY": "7AM-6PM",
+            "STREET_ADDR": "611 W. PARK",
+            "SUNDAY": "7AM-6PM"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 306,
+            "BLDG_TYPE": "D",
+            "BUILDING_NAME": "SMALL HOMES BUILDING",
+            "FULL_ADDR": "1 E. ST. MARYS RD., CHAMPAIGN, IL",
+            "FULL_NAME": "COLLEGE OF FINE AND APPLIED ARTS DESIGN RESEARCH LABORATORY",
+            "LAT": "40.0940741",
+            "LONG": "-88.242559",
+            "MON-FRI": "DEPT",
+            "SATURDAY": "DEPT",
+            "STREET_ADDR": "1 E. ST. MARYS RD.",
+            "SUNDAY": "DEPT"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 60,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "SMITH HALL (ALL DOORS)",
+            "FULL_ADDR": "805 S. MATHEWS, URBANA, IL",
+            "FULL_NAME": "SMITH MEMORIAL HALL",
+            "LAT": "40.105707",
+            "LONG": "-88.2259925",
+            "MON-FRI": "LOCKED",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "805 S. MATHEWS",
+            "SUNDAY": "LOCKED"
+        },
+        {
+            "BLDG_NUM": "",
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "",
+            "MON-FRI": "",
+            "SATURDAY": "",
+            "SUNDAY": ""
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 209,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "SPEECH & HEARING CLINIC",
+            "FULL_ADDR": "901 S. SIXTH, CHAMPAIGN, IL",
+            "FULL_NAME": "SPEECH AND HEARING SCIENCE",
+            "LAT": "40.1079574",
+            "LONG": "-88.2303642",
+            "MON-FRI": "7:30AM-5PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "901 S. SIXTH",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 40,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "STOCK PAVILION",
+            "FULL_ADDR": "1402 W. PENNSYLVANIA, URBANA, IL",
+            "FULL_NAME": "STOCK PAVILION",
+            "LAT": "40.1005748",
+            "LONG": "-88.2273142",
+            "MON-FRI": "7AM-11PM (6PM F)",
+            "SATURDAY": "7AM-6PM",
+            "STREET_ADDR": "1402 W. PENNSYLVANIA",
+            "SUNDAY": "7AM-6PM"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 71,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "STUDENT SERVICES ARCADE BLDG",
+            "FULL_ADDR": "713 S. WRIGHT, CHAMPAIGN, IL",
+            "FULL_NAME": "STUDENT SERVICES ARCADE BUILDING",
+            "LAT": "40.1097781",
+            "LONG": "-88.2288724",
+            "MON-FRI": "6:30A-7:30P (5:30P F)",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "713 S. WRIGHT",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 188,
+            "BLDG_TYPE": "E",
+            "BUILDING_NAME": "STUDENT SERVICES BLDG",
+            "FULL_ADDR": "610 E. JOHN, CHAMPAIGN, IL",
+            "FULL_NAME": "FRED TURNER STUDENT SERVICES BLDG",
+            "LAT": "40.1093563",
+            "LONG": "-88.2300217",
+            "MON-FRI": "7AM-6PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "610 E. JOHN",
+            "SUNDAY": "LOCKED"
+        },
+        {
+            "BLDG_NUM": "",
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "",
+            "MON-FRI": "",
+            "SATURDAY": "",
+            "SUNDAY": ""
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 193,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "SWANLUND ADMIN BLDG (N DOOR)",
+            "FULL_ADDR": "601 E. JOHN, CHAMPAIGN, IL",
+            "FULL_NAME": "SWANLUND ADMINISTRATION BUILDING",
+            "LAT": "40.1088502",
+            "LONG": "-88.2301236",
+            "MON-FRI": "7:30AM-5:30PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "601 E. JOHN",
+            "SUNDAY": "LOCKED"
+        },
+        {
+            "BLDG_NUM": "",
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "SWANLUND ADMIN BLDG (S DOOR)",
+            "MON-FRI": "LOCKED",
+            "SATURDAY": "LOCKED",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 339,
+            "BLDG_TYPE": "B",
+            "BUILDING_NAME": "T H BUELL HALL (Includes So Door of W Ent)",
+            "FULL_ADDR": "611 Lorado Taft Dr, CHAMPAIGN, IL",
+            "FULL_NAME": "TEMPLE HOYNE BUELL HALL",
+            "LAT": "40.1021017",
+            "LONG": "-88.2279134",
+            "MON-FRI": "7AM-9PM (6PM F)",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "611 Lorado Taft Dr",
+            "SUNDAY": "LOCKED"
+        },
+        {
+            "BLDG_NUM": "",
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "NORTH DOOR OF WEST ENTRANCE",
+            "MON-FRI": "DEPT",
+            "SATURDAY": "LOCKED",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 13,
+            "BLDG_TYPE": "E",
+            "BUILDING_NAME": "TALBOT LABORATORY",
+            "FULL_ADDR": "104 S. WRIGHT, URBANA, IL",
+            "FULL_NAME": "TALBOT LABORATORY",
+            "LAT": "40.1118749",
+            "LONG": "-88.2282634",
+            "MON-FRI": "7AM-5:30PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "104 S. WRIGHT",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 42,
+            "BLDG_TYPE": "B",
+            "BUILDING_NAME": "TRANSPORTATION BLDG (ALL DRS)",
+            "FULL_ADDR": "104 S. MATHEWS, URBANA, IL",
+            "FULL_NAME": "TRANSPORTATION BUILDING",
+            "LAT": "40.1117059",
+            "LONG": "-88.2252078",
+            "MON-FRI": "7AM-6PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "104 S. MATHEWS",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 197,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "TURNER HALL",
+            "FULL_ADDR": "1102 S. GOODWIN, URBANA, IL",
+            "FULL_NAME": "TURNER HALL",
+            "LAT": "40.102654",
+            "LONG": "-88.223798",
+            "MON-FRI": "7AM-5PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "1102 S. GOODWIN",
+            "SUNDAY": "LOCKED"
+        },
+        {
+            "BLDG_NUM": "",
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "NORTH DOOR   ",
+            "MON-FRI": "7AM-10PM (5PM F)",
+            "SATURDAY": "LOCKED",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 61,
+            "BLDG_TYPE": "B",
+            "BUILDING_NAME": "UNIVERSITY HIGH SCHOOL",
+            "FULL_ADDR": "1212 W. SPRINGFIELD, URBANA, IL",
+            "FULL_NAME": "UNIVERSITY HIGH SCHOOL",
+            "LAT": "40.1130426",
+            "LONG": "-88.2252253",
+            "MON-FRI": "7AM-DEPT",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "1212 W. SPRINGFIELD",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 255,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "UNIVERSITY PRESS BLDG",
+            "FULL_ADDR": "1325 S. OAK, CHAMPAIGN, IL",
+            "FULL_NAME": "UNIVERSITY PRESS BUILDING",
+            "LAT": "40.0981717",
+            "LONG": "-88.2414489",
+            "MON-FRI": "DEPT",
+            "SATURDAY": "DEPT",
+            "STREET_ADDR": "1325 S. OAK",
+            "SUNDAY": "DEPT"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 292,
+            "BLDG_TYPE": "B",
+            "BUILDING_NAME": "VET TEACHING HOSPITAL",
+            "FULL_ADDR": "1008 W HAZELWOOD DR., URBANA, IL",
+            "FULL_NAME": "VETERINARY TEACHING HOSPITAL",
+            "LAT": "40.092007",
+            "LONG": "-88.2224066",
+            "MON-FRI": "6AM-5PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "1008 W HAZELWOOD DR.",
+            "SUNDAY": "LOCKED"
+        },
+        {
+            "BLDG_NUM": "",
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "SE DOOR (ADMISSIONS DOOR)",
+            "MON-FRI": "DEPT",
+            "SATURDAY": "DEPT",
+            "SUNDAY": "DEPT"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 350,
+            "BLDG_TYPE": "B",
+            "BUILDING_NAME": "VMBSB (E, W, SW & E DOOR ON N SIDE)",
+            "FULL_ADDR": "2001 S. LINCOLN, URBANA, IL",
+            "FULL_NAME": "VET MED BASIC SCIENCES BUILDING",
+            "LAT": "40.093017",
+            "LONG": "-88.2208847",
+            "MON-FRI": "7AM-7PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "2001 S. LINCOLN",
+            "SUNDAY": "LOCKED"
+        },
+        {
+            "BLDG_NUM": "",
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "ALL OTHER DOORS (I-CARD DOORS)",
+            "MON-FRI": "LOCKED",
+            "SATURDAY": "LOCKED",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 287,
+            "BLDG_TYPE": "B",
+            "BUILDING_NAME": "VM SOL",
+            "FULL_ADDR": "1102 W. HAZELWOOD, URBANA, IL",
+            "FULL_NAME": "CLINICAL SKILLS LEARNING CENTER",
+            "LAT": "40.0909386",
+            "LONG": "-88.2200608",
+            "MON-FRI": "DEPT-5PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "1102 W. HAZELWOOD",
+            "SUNDAY": "LOCKED"
+        },
+        {
+            "BLDG_NUM": "",
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "WEST DOOR",
+            "MON-FRI": "DEPT-5PM",
+            "SATURDAY": "LOCKED",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 56,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "VIVARIUM",
+            "FULL_ADDR": "606 E. HEALY, CHAMPAIGN, IL",
+            "FULL_NAME": "SHELFORD VIVARIUM",
+            "LAT": "40.111639",
+            "LONG": "-88.230128",
+            "MON-FRI": "7AM-5PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "606 E. HEALY",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 106,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "807 S WRIGHT (IUB) N & E DRS OF NE DRS",
+            "FULL_ADDR": "807/809 S. WRIGHT, CHAMPAIGN, IL",
+            "FULL_NAME": "ILLINI UNION BOOKSTORE",
+            "LAT": "40.1082994",
+            "LONG": "-88.2292483",
+            "MON-FRI": "7AM-5:30PM",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "807/809 S. WRIGHT",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 206,
+            "BLDG_TYPE": "D",
+            "BUILDING_NAME": "WASTE MANAGEMENT & RES LAB",
+            "FULL_ADDR": "1 HAZELWOOD DR., CHAMPAIGN, IL",
+            "FULL_NAME": "ILLINOIS SUSTAINABLE TECHNOLOGY CENTER",
+            "LAT": "40.0900968",
+            "LONG": "-88.2424379",
+            "MON-FRI": "DEPT",
+            "SATURDAY": "DEPT",
+            "STREET_ADDR": "1 HAZELWOOD DR.",
+            "SUNDAY": "DEPT"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 270,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "WASTE TRANSFER & MATERIAL REC FAC",
+            "FULL_ADDR": "10 ST. MARY'S ROAD, CHAMPAIGN, IL",
+            "FULL_NAME": "WASTE TRANSFER & MAT. RECOVERY FACILITY",
+            "LAT": "40.0944618",
+            "LONG": "-88.2444195",
+            "MON-FRI": "6AM-DEPT",
+            "SATURDAY": "LOCKED",
+            "STREET_ADDR": "10 ST. MARY'S ROAD",
+            "SUNDAY": "LOCKED"
+        }
+    ],
+    [
+        {
+            "BLDG_NUM": 159,
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "WOHLERS HALL",
+            "FULL_ADDR": "1206 S. SIXTH, CHAMPAIGN, IL",
+            "FULL_NAME": "WOHLERS HALL",
+            "LAT": "40.1035102",
+            "LONG": "-88.2300657",
+            "MON-FRI": "7AM-8PM ",
+            "SATURDAY": "7AM-6PM",
+            "STREET_ADDR": "1206 S. SIXTH",
+            "SUNDAY": "12N-6PM"
+        },
+        {
+            "BLDG_NUM": "",
+            "BLDG_TYPE": "",
+            "BUILDING_NAME": "LOADING DOOR",
+            "MON-FRI": "7AM-8PM ",
+            "SATURDAY": "LOCKED",
+            "SUNDAY": "12N-6PM"
+        },
+        {
+            "BLDG_NUM": "",
+            "BLDG_TYPE": "E",
+            "BUILDING_NAME": "YEH STUDENT CENTER",
+            "MON-FRI": "7AM-5:30PM",
+            "SATURDAY": "LOCKED",
+            "SUNDAY": "LOCKED"
+        }
+    ]
+]
