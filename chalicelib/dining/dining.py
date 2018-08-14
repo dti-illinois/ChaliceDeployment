@@ -9,9 +9,15 @@ class Dining():
     def get_menu_today(self, hall):
         request_url = self.url + "&id=" + hall + "&t=json"
         response = urlopen(request_url)
-        return json.load(response)
+        try:
+            return json.load(response)
+        except:
+            return ''
 
     def get_menu_date(self, hall, date_from, date_to):
         request_url = self.url + "&id=" + hall + "&from=" + date_from +"&to=" + date_to + "&t=json"
         response = urlopen(request_url)
-        return json.load(response)
+        try:
+            return json.load(response)
+        except:
+            return ''
