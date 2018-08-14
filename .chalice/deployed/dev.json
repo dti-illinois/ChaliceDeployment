@@ -3,19 +3,19 @@
     {
       "name": "default-role",
       "resource_type": "iam_role",
-      "role_arn": "arn:aws:iam::469338078031:role/UIUC-API-dev",
+      "role_arn": "arn:aws:iam::430229884637:role/UIUC-API-dev",
       "role_name": "UIUC-API-dev"
     },
     {
       "name": "api_handler",
       "resource_type": "lambda_function",
-      "lambda_arn": "arn:aws:lambda:us-west-2:469338078031:function:UIUC-API-dev"
+      "lambda_arn": "arn:aws:lambda:us-east-1:430229884637:function:UIUC-API-dev"
     },
     {
       "name": "rest_api",
       "resource_type": "rest_api",
-      "rest_api_id": "lyogz55hd1",
-      "rest_api_url": "https://lyogz55hd1.execute-api.us-west-2.amazonaws.com/api/"
+      "rest_api_id": "69smoo2dc6",
+      "rest_api_url": "https://69smoo2dc6.execute-api.us-east-1.amazonaws.com/api/"
     }
   ],
   "schema_version": "2.0",

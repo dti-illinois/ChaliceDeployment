@@ -7,6 +7,7 @@ from chalicelib.library import library
 from chalicelib.athletic import athletic
 from chalicelib.daily import daily
 from chalicelib.building import buildings
+from chalicelib.laundry import laundry
 
 app = Chalice(app_name='UIUC-API')
 
@@ -89,4 +90,16 @@ def get_all_buildings():
 def get_building_by_num(building_num):
     return buildings.BuildingInfo().search_by_building_num(int(building_num))
 
-print(get_building_by_num(281))
+
+#laundry router
+@app.route('/laundry', methods=['GET'])
+def get_all_laundry_status():
+    return laundry.LaundryStatus().get_laundry_status()
+
+@app.route('/laundry/{building_id}', methods=['GET'])
+def get_laundry_by_building(building_id):
+    return laundry.LaundryStatus().get_laundry_by_building(building_id)
+
+@app.route('/laundry/{building_id}/{machine_type}', methods=['GET'])
+def get_laundry_by_building_machine(building_id, machine_type):
+    return laundry.LaundryStatus().get_laundry_by_building_machine(building_id, machine_type)

@@ -1,5 +1,4 @@
 import json
-import os
 
 from chalicelib.athletic import athletic_consts
 
