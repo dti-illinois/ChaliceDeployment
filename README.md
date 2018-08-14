@@ -9,7 +9,7 @@ The University of Illinois at Urbana-Champaign API gateway allows anyone to buil
 ## Accessing the API
 All calls are made to the following URL with the required parameters for a given service.
 ```
-https://hs7k17eh68.execute-api.us-west-2.amazonaws.com/api/
+https://69smoo2dc6.execute-api.us-east-1.amazonaws.com/api
 ```
 The data is returned in `json` format.
 
