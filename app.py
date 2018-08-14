@@ -96,6 +96,8 @@ def get_building_by_num(building_num):
 def get_all_laundry_status():
     return laundry.LaundryStatus().get_laundry_status()
 
+#Code below currently not working. To be changed.
+'''
 @app.route('/laundry/{building_id}', methods=['GET'])
 def get_laundry_by_building(building_id):
     return laundry.LaundryStatus().get_laundry_by_building(building_id)
@@ -103,3 +105,4 @@ def get_laundry_by_building(building_id):
 @app.route('/laundry/{building_id}/{machine_type}', methods=['GET'])
 def get_laundry_by_building_machine(building_id, machine_type):
     return laundry.LaundryStatus().get_laundry_by_building_machine(building_id, machine_type)
+'''
